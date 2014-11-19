@@ -9,8 +9,8 @@ excerpt:
 tags: []
 ads: true
 image:
-  feature:logo_7-5oz_circle1.jpg
-  teaser:logo_7-5oz_circle1.jpg
+  feature:
+  teaser:
   thumb:
 ---
 <a href="https://bybanglab.files.wordpress.com/2014/11/logo_7-5oz_circle1.jpg"><img class="alignnone size-full wp-image-52" src="https://bybanglab.files.wordpress.com/2014/11/logo_7-5oz_circle1.jpg" alt="logo_7.5oz_circle" width="640" height="400" /></a>

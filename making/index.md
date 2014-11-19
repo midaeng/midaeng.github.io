@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "MAKING THINGS"
-date: 2014-05-30T11:39:03-04:00
+date: 2014-11-15T20:23:02-04:00
 modified:
 excerpt: "A collection of making things."
 tags: []

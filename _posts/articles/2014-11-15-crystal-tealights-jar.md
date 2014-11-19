@@ -10,7 +10,7 @@ tags: []
 ads: true
 image:
   feature:logo_crystal_tealight32.jpg
-  teaser:logo_crystal_tealight32.jpg
+  teaser:logo_crystal_tealight_400x250.jpg
   thumb:
 ---
 

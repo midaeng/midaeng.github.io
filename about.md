@@ -1,11 +1,17 @@
 ---
 layout: page
-title: About
-permalink: /about/
+permalink: /about/index.html
+title: About BANGLAB.
+tagline: History of BANGLAB. 
+tags: [about]
+modified: 11-17-2014
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+<p style="text-align:left;">뱅랩|BANG LAB. 입니다 :)</p>
+<p style="text-align:left;">뱅랩 그 첫번 째 이야기인 소이캔들을 제작하고 있어요.</p>
+<p style="text-align:left;">많은 관심 부탁드려요 ♥</p>
+<p style="text-align:left;"><a title="BANG LAB. X SOY CANDLE 바로가기" href="http://www.facebook.com/bybanglab" target="_blank">www.facebook.com/bybanglab</a></p>
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+
+

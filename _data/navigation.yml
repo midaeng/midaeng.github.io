@@ -1,12 +1,12 @@
 # Site navigation links
 
 - title: SOY CANDLES
-  url: /blog
+  url: /articles/
   excerpt: "First making things by BANG LAB."
   image: 400x250.gif
 
 - title: Making
-  url: /making
+  url: /making/
   excerpt: "Examples of media posts perfect for showcasing work, etc."
   image: 400x250.gif
 

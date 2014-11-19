@@ -1,5 +1,7 @@
 # Site navigation links
-
+- title: Home
+  url: /
+  
 - title: SOY CANDLES
   url: /articles/
   excerpt: "First making things by BANG LAB."

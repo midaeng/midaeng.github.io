@@ -9,8 +9,8 @@ excerpt:
 tags: []
 ads: true
 image:
-  feature:
-  teaser:
+  feature: logo_crystal_tealight_400x250.jpg
+  teaser: logo_crystal_tealight_400x250.jpg
   thumb:
 ---
 

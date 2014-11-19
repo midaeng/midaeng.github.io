@@ -1,5 +1,6 @@
 ---
 layout: archive
+permalink: /blog/
 title: "SOY CANDLES"
 modified:
 excerpt: "A collection of soy candles."
@@ -14,3 +15,4 @@ image:
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
+

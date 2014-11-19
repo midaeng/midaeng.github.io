@@ -5,7 +5,7 @@ description: BANG's handcrafting blog
 logo: avatar.png
 teaser: 400x250.gif
 locale: en_US
-url: www.banglab.com
+url: 
 permalink: /blog/:year/:month/:day/:title/
 markdown: kramdown
 pygments: true

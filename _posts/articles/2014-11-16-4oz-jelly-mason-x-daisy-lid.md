@@ -9,7 +9,7 @@ excerpt:
 tags: []
 ads: true
 image:
-  feature:logo_daisy_crystaljar1.jpg
+  feature:
   teaser:logo_daisy_crystaljar1.jpg
   thumb:
 ---

@@ -9,7 +9,7 @@ excerpt:
 tags: []
 ads: true
 image:
-  feature:logo_coffee_tealights1.jpg
+  feature:
   teaser:logo_coffee_tealights1.jpg
   thumb:
 ---

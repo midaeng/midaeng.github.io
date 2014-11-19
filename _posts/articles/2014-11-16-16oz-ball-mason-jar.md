@@ -9,7 +9,7 @@ excerpt:
 tags: []
 ads: true
 image:
-  feature:logo_16oz_wide_masonjar1.jpg
+  feature:
   teaser:logo_16oz_wide_masonjar1.jpg
   thumb:
 ---

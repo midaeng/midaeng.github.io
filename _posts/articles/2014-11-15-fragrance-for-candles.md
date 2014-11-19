@@ -9,7 +9,7 @@ excerpt:
 tags: []
 ads: true
 image:
-  feature:logo_crystal_tealight32.jpg
+  feature:
   teaser:logo_crystal_tealight32.jpg
   thumb:
 ---

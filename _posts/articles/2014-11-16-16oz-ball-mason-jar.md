@@ -4,7 +4,7 @@ title: 16oz Ball mason jar
 date: 2014-11-16 00:03
 author: bang_lab
 modified:
-categories: Mason jar
+categories: articles
 excerpt: 
 tags: []
 ads: true

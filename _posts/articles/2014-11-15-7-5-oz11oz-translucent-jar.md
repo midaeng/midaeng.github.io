@@ -4,7 +4,7 @@ title: 7.5 oz/11oz Translucent jar
 date: 2014-11-15 23:57
 author: bang_lab
 modified:
-categories: jars
+categories: articles
 excerpt: 
 tags: []
 ads: true

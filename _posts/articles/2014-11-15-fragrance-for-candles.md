@@ -4,7 +4,7 @@ title: Fragrance for CANDLES
 date: 2014-11-15 22:31
 author: bang_lab
 modified:
-categories: Fragrance
+categories: articles
 excerpt: 
 tags: []
 ads: true

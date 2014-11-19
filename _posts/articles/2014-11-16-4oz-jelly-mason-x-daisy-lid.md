@@ -10,7 +10,7 @@ tags: []
 ads: true
 image:
   feature:
-  teaser:
+  teaser: logo_daisy_crystaljar_400x250.jpg
   thumb:
 ---
 

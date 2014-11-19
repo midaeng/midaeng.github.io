@@ -1,5 +1,5 @@
 ---
-layout: jetpack-portfolio
+layout: article
 title: Coffee tealights
 date: 2014-11-15 23:44
 author: midaeng

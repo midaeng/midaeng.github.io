@@ -1,5 +1,5 @@
 ---
-layout: jetpack-portfolio
+layout: article
 title: 16oz Ball mason jar
 date: 2014-11-16 00:03
 author: midaeng

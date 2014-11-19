@@ -1,5 +1,5 @@
 ---
-layout: jetpack-portfolio
+layout: article
 title: 4oz Jelly mason X Daisy lid
 date: 2014-11-16 00:05
 author: midaeng

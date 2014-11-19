@@ -1,5 +1,5 @@
 ---
-layout: jetpack-portfolio
+layout: article
 title: Crystal tealights jar
 date: 2014-11-15 22:50
 author: midaeng

@@ -3,7 +3,7 @@ layout: article
 title: "About"
 date: 2014-06-02T09:44:20-04:00
 modified: 2014-08-27T14:56:44-04:00
-excerpt: "This is the Skinny Bones about page."
+excerpt: "About BANGLAB.""
 image:
   feature:
   teaser:
@@ -11,7 +11,7 @@ image:
 share: false
 ads: false
 ---
-
-This is a work in progress.
-
-Just a little something I'm using to jump start a site refresh. I like to think of it as a starter for building your own Jekyll site. I purposely keep the styling minimal and bare to make it easier to add your own flare and markup.
+<p style="text-align:left;">뱅랩|BANG LAB. 입니다 :)</p>
+<p style="text-align:left;">뱅랩 그 첫번 째 이야기인 소이캔들을 제작하고 있어요.</p>
+<p style="text-align:left;">많은 관심 부탁드려요 ♥</p>
+<p style="text-align:left;"><a title="BANG LAB. X SOY CANDLE 바로가기" href="http://www.facebook.com/bybanglab" target="_blank">www.facebook.com/bybanglab</a></p>

@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Fragrance for CANDLES
+title: "Fragrance for CANDLES"
 date: 2014-11-15 22:31
 author: bang_lab
 modified:
@@ -10,7 +10,7 @@ tags: []
 ads: true
 image:
   feature:
-  teaser:logo_crystal_tealight32.jpg
+  teaser:logo_crystal_tealight_400x250.jpg
   thumb:
 ---
 

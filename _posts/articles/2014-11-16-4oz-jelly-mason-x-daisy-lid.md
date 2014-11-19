@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 4oz Jelly mason X Daisy lid
+title: "4oz Jelly mason X Daisy lid"
 date: 2014-11-16 00:05
 author: bang_lab
 modified:
@@ -10,7 +10,7 @@ tags: []
 ads: true
 image:
   feature:
-  teaser:logo_daisy_crystaljar1.jpg
+  teaser:logo_daisy_crystaljar_400x250.jpg
   thumb:
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Coffee tealights
+title: "Coffee tealights"
 date: 2014-11-15 23:44
 author: bang_lab
 modified:
@@ -10,7 +10,7 @@ tags: []
 ads: true
 image:
   feature:
-  teaser:logo_coffee_tealights1.jpg
+  teaser:logo_coffee_tealights_400x250.jpg
   thumb:
 ---
 <a href="https://bybanglab.files.wordpress.com/2014/11/logo_coffee_tealights1.jpg"><img class="alignnone size-full wp-image-54" src="https://bybanglab.files.wordpress.com/2014/11/logo_coffee_tealights1.jpg" alt="logo_coffee_tealights" width="640" height="378" /></a>

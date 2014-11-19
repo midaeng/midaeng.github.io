@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Crystal tealights jar
+title: "Crystal tealights jar"
 date: 2014-11-15 22:50
 author: bang_lab
 modified:

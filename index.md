@@ -17,10 +17,10 @@ image:
   <p class="post-excerpt">BANG LAB. make ORGANIC aroma candles with soybean wax. Also, we sell candles too! You can choose <a href="http://www.banglab.com/articles/fragrance-for-candles/">fragrance</a>. </p>
 </div><!-- /.tile -->
 
-<!-- <div class="tile">
+<div class="tile">
   <h2 class="post-title">Guidance</h2>
   <p class="post-excerpt">We provide a guide for making candles.</p>
-</div><!-- /.tile --> -->
+</div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title">Extensible</h2>

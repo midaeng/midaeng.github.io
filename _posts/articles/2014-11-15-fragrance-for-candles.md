@@ -160,8 +160,8 @@ You can choose the fragrance following table!!
 		<td>BLUE SPRUCE </td>
 		<td>BLACK RASPBERRY VANILLA TYPE </td>
 		<td>CRANBERRY MARMALADE </td>
-		<td>WEDDING DAY </td>
 		<td>RED CURRANT </td>
+		<td>WEDDING DAY </td>
 	</tr>
 	<tr>
 	</tr>

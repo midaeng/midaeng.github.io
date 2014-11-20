@@ -16,7 +16,7 @@ image:
 
 만들고 있는 캔들의 향입니다 :)
 
-<table>
+<!-- <table>
   <tr>
     <th>SPRING</th>
     <th>SUMMER</th>
@@ -49,7 +49,7 @@ image:
     <td>PEPPERMINT & EUCALYPTUS</td>
   </tr>
 </table>
-
+ -->
 
 <table>
 	<tr>
@@ -77,6 +77,8 @@ image:
 	</tr>
 </table>
 
+<br><br>
+
 <table>
 	<tr>
     	<th>SPRING</th>
@@ -99,6 +101,8 @@ image:
 		<td>WISTERIA </td>
 	</tr>
 </table>	
+
+<br><br>
 
 <table>
 	<tr>
@@ -127,6 +131,8 @@ image:
 	</tr>
 </table>
 
+<br><br>
+
 <table>
 	<tr>
     	<th>AUTUMN</th>
@@ -143,6 +149,8 @@ image:
 	<tr>
 	</tr>
 </table>
+
+<br><br>
 
 <table>
 	<tr>

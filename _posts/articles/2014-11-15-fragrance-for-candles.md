@@ -18,83 +18,125 @@ image:
 
 <table>
   <tr>
-    <th>FLOWERS</th>
-    <th>FRUITS</th>
-    <th>TREES</th>
+    <th>SPRING</th>
+    <th>SUMMER</th>
+    <th>AUTUMN</th>
+    <th>HOLIDAY</th>
   </tr>
   <tr>
-    <td>CHERRY BLOSSOM </td>
-    <td>Passionfruit and Guava</td>
+    <td>FPINK MAGNOLIA BLOSSOM</td>
+    <td>GRAPEFRUIT and MANGOSTEEN </td>
+    <td>PUMPKIN SOUFFLE</td>
+  </tr>
+  <tr>
+    <td>RAIN WATER </td>
+    <td>PHAWAIIAN BREEZE</td>
+    <td>POMEGRANATE CIDER</td>
+  </tr>
+  <tr>
+    <td>HONEYSUCKLE JASMINE</td>
+    <td>JAMAICA ME CRAZY </td>
+    <td>CRANBERRY MARMALADE </td>
+  </tr>
+  <tr>
+    <td>LAVENDER</td>
+    <td>BEACH LINEN</td>
+    <td>MACINTOSH APPLE </td>
+  </tr>
+   <tr>
+    <td>LAVENDER</td>
+    <td>COOL CITRUS BASIL</td>
     <td>PEPPERMINT & EUCALYPTUS</td>
   </tr>
 </table>
 
-CHERRY BLOSSOM <br>
-LIME BASIL & MANDARIN <br>
-CLEAN COTTON <br>
-WEDDING DAY <br>
-WISTERIA <br>
-PEONY <br>
-BAIES <br>
-MILLESIME IMPERIAL <br>
 
-<br><br>
-
-<strong>FLOWERS</strong> <br>
-Hydrangea
-Honeysuckle
-Love Spell
-Sweet Pea
-Violet Lime
-White Tea
-Fig Tree
-Golden Rose
-Lilac
-
-<strong>FRUITS</strong> <br>
-Coconut Lime
-Passionfruit and Guava
-Raspberry Sangria
-
-<strong>TREES</strong> <br>
-PEPPERMINT & EUCALYPTUS <br>
-BLUE SPRUCE  <br>
-CASSIA & AMBER <br>
+<table>
+  <tr>
+    <th>CLASSIC</th>
+  </tr>
+  <tr>
+   <td>BABY POWDER </td>
+   <td>BABY POWDER </td>
+<td>BAIES </td>
+<td>CLEAN COTTON </td>
+<td>CHERRY BLOSSOM </td>
+<td>FRESH COFFEE </td>
+<td>LAVENDER </td>
+<td>LIME BASIL AND MANDARIN </td>
+<td>LOVE SPELL
+<td>MACINTOSH APPLE </td>
+<td>MULBERRY </td>
+<td>PEPPERMINT AND EUCALYPTUS </td>
+<td>PEONY </td>
+<td>PUMPKIN SOUFFLE </td>
+<td>SWEET PEA </td>
+  </tr>
+</table>
 
 
-<strong>SPRING</strong> <br>
-PINK MAGNOLIA BLOSSOM <br>
-RAIN WATER <br>
-HONEYSUCKLE JASMINE <br>
-LAVENDER <br>
+<strong>CLASSIC</strong> </td>
+<td>BABY POWDER </td>
+<td>BAIES </td>
+<td>CLEAN COTTON </td>
+<td>CHERRY BLOSSOM </td>
+<td>FRESH COFFEE </td>
+<td>LAVENDER </td>
+<td>LIME BASIL AND MANDARIN </td>
+<td>LOVE SPELL
+<td>MACINTOSH APPLE </td>
+<td>MULBERRY </td>
+<td>PEPPERMINT AND EUCALYPTUS </td>
+<td>PEONY </td>
+<td>PUMPKIN SOUFFLE </td>
+<td>SWEET PEA </td>
 
-<br><br>
+<strong>SPRING</strong> </td>
+<td>CASSIA & AMBER </td>
+<td>FIG TREE </td>
+<td>GOLDEN ROSE </td>
+<td>HYDRANGEA </td>
+<td>LAVENDER </td>
+<td>PINK MAGNOLIA BLOSSOM </td>
+<td>RAIN WATER </td>
+<td>HONEYSUCKLE JASMINE </td>
+<td>VIOLET LIME </td>
+<td>WHITE TEA </td>
+<td>WISTERIA </td>
 
-<strong>SUMMER</strong> <br>
-GRAPEFRUIT & MANGOSTEEN <br>
-HAWAIIAN BREEZE <br>
-JAMAICA ME CRAZY <br>
-BEACH LINEN <br>
-COOL CITRUS BASIL <br>
+
+<strong>SUMMER</strong> </td>
+<td>BEACH LINEN </td>
+<td>COCONUT LIME </td>
+<td>COOL CITRUS BASIL </td>
+<td>GRAPEFRUIT AND MANGOSTEEN </td>
+<td>FIG TREE
+<td>HAWAIIAN BREEZE </td>
+<td>HONEYSUCKLE </td>
+<td>HONEYSUCKLE JASMINE </td>
+<td>HYDRANGEA </td>
+<td>JAMAICA ME CRAZY </td>
+<td>LILAC </td>
+<td>LIME COLLER </td>
+<td>MULBERRY </td>
+<td>PASSIONFRUIT AND GUAVA </td>
+<td>RASPBERRY SHANGRIA </td>
 
 
-<br><br>
+<strong>AUTUMN</strong> </td>
+<td>PUMPKIN SOUFFLE </td>
+<td>POMEGRANATE CIDER </td>
+<td>CRANBERRY MARMALADE </td>
+<td>MACINTOSH APPLE </td>
+<td>CINAMON STICK </td>
 
-<strong>AUTUMN</strong> <br>
-PUMPKIN SOUFFLE <br>
-POMEGRANATE CIDER <br>
-CRANBERRY MARMALADE <br>
-MACINTOSH APPLE <br>
 
-<br><br>
-
-<strong>WINTER</strong> <br>
-RED CURRANT <br>
-BLACK RASPBERRY VANILLA TYPE <br>
-CINAMON STICK <br>
-MULBERRY <br>
-
-<br><br>
+<strong>HOLIDAY</strong> </td>
+<td>BLUE SPRUCE </td>
+<td>BLACK RASPBERRY VANILLA TYPE </td>
+<td>CRANBERRY MARMALADE </td>
+<td>WEDDING DAY </td>
+<td>RED CURRANT </td>
 
 
 

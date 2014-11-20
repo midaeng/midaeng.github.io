@@ -8,23 +8,23 @@ image:
 <div class="tiles">
 
 <div class="tile">
-  <h2 class="post-title">MAKING SOY CANDLES</h2>
-  <p class="post-excerpt">You can make SOY candles easier.</p>
+  <h2 class="post-title">Handrafting</h2>
+  <p class="post-excerpt">BANG LAB. is a handcrafting blog. </p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Content First</h2>
-  <p class="post-excerpt">Designed to put the focus on you and your writing. Headers, navigation, sidebars, and footers have been purposely deemphasized.</p>
+  <h2 class="post-title">Making soy candles</h2>
+  <p class="post-excerpt">BANG LAB. make ORGANIC aroma candles with soybean wax. Also, we sell candles too! You can choose <a href="http://www.banglab.com/articles/fragrance-for-candles/">fragrance</a>. </p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Customizable</h2>
-  <p class="post-excerpt">Packed with layouts and modules. Include Disqus comments, social sharing buttons, and table of contents on one or all pages.</p>
+  <h2 class="post-title">Guidance</h2>
+  <p class="post-excerpt">We provide a guide for making candles.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title">Extensible</h2>
-  <p class="post-excerpt">Compatible with popular libraries like <a href="http://bourbon.io">Bourbon</a>, <a href="http://neat.bourbon.io/">Neat</a>, and <a href="http://github.com/octopress/octopress">Octopress</a> to help build and deploy your site with ease.</p>
+  <p class="post-excerpt">We will be trying to add more another handcrafting things. Try, try, try, ...</p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->

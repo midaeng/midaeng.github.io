@@ -7,7 +7,7 @@ modified:
 categories: articles
 excerpt: 
 tags: []
-ads: true
+ads: false
 image:
   feature: 
   teaser: logo_16oz_wide_masonjar_400x250.jpg

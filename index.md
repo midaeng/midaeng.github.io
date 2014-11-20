@@ -14,7 +14,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Making soy candles</h2>
-  <p class="post-excerpt">BANG LAB. make ORGANIC aroma candles with soybean wax. Also, we sell candles too! You can choose <a href="http://www.banglab.com/articles/fragrance-for-candles/">fragrance</a>. </p>
+  <p class="post-excerpt">BANG LAB. make ORGANIC aroma candles with soybean wax. We use GoldenWAX and CandleScience oil. <b>Also, we sell candles too!</b> You can choose fragrance and size. <a href="http://www.banglab.com/articles/fragrance-for-candles/">fragrance</a>. </p>
 </div><!-- /.tile -->
 
 <div class="tile">
@@ -24,7 +24,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Extensible</h2>
-  <p class="post-excerpt">We will be trying to add more another handcrafting things. Try, try, try, ...</p>
+  <p class="post-excerpt">We will be trying constantly to add more another handcrafting things. </p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->

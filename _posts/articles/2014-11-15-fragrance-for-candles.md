@@ -87,19 +87,21 @@ You can choose the fragrance following table!!
     </tr>
 	<tr>
 		<td>CASSIA AND AMBER </td>
+		<td>COOL CITRUS BASIL </td>
 		<td>FIG TREE </td>
 		<td>GOLDEN ROSE </td>
 		<td>HYDRANGEA </td>
-		<td>LAVENDER </td>
 	</tr>
 	<tr>
+		<td>LAVENDER </td>
 		<td>PINK MAGNOLIA BLOSSOM </td>
 		<td>RAIN WATER </td>
 		<td>HONEYSUCKLE JASMINE </td>
 		<td>VIOLET LIME </td>
-		<td>WHITE TEA </td>
 	</tr>
 	<tr>
+		<td>WHITE TEA </td>
+		<td>WHITE TEA AND BERRIES </td>
 		<td>WISTERIA </td>
 	</tr>
 </table>	
@@ -130,6 +132,7 @@ You can choose the fragrance following table!!
 		<td>RASPBERRY SHANGRIA </td>
 	</tr>
 	<tr>
+		<td>VIOLET LIME </td>
 	</tr>
 	<tr>
 	</tr>

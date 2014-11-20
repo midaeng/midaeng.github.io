@@ -7,7 +7,7 @@ modified:
 categories: articles
 excerpt: 
 tags: []
-ads: true
+ads: false
 image:
   feature:
   teaser:

@@ -14,7 +14,7 @@ image:
   thumb:
 ---
 
-만들고 있는 캔들의 향입니다 :)
+You can choose the fragrance following table!!
 
 <!-- <table>
   <tr>

@@ -7,12 +7,17 @@
   excerpt: "First making things by BANG LAB."
   image: 400x250.gif
 
-- title: Making
+- title: MAKING
   url: /making/
   excerpt: "Examples of media posts perfect for showcasing work, etc."
   image: 400x250.gif
 
-- title: About
+- title: BLOG
+  url: /blog/
+  excerpt: "Blog posts for work"
+  image: 400x250.gif
+
+- title: ABOUT
   url: /about/
   excerpt: "All about BANGLAB."
   image: 400x250.gif

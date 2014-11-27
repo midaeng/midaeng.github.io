@@ -12,6 +12,6 @@ image:
   creditlink: http://jekyllrb.com/
 ---
 
-<img class="alignnone size-full wp-image-58" src="/image/octojekyll.png" alt="logo_square" width="660" height="552" /></a>
+<img class="alignnone size-full wp-image-58" src="/images/octojekyll.png" width="330" height="276" />
 
 This is a sample blog post.

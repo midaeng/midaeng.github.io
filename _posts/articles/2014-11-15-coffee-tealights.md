@@ -8,6 +8,7 @@ categories: articles
 excerpt: 
 tags: []
 ads: false
+comments: true
 image:
   feature:
   teaser: logo_coffee_tealights_400x250.jpg

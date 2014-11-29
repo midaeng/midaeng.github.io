@@ -8,6 +8,7 @@ categories: articles
 excerpt: 
 tags: []
 ads: false
+comments: true
 image:
   feature:
   teaser: logo_daisy_crystaljar_400x250.jpg

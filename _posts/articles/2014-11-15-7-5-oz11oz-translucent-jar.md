@@ -8,6 +8,7 @@ categories: articles
 excerpt: 
 tags: []
 ads: false
+comments: true
 image:
   feature:
   teaser: logo_7-5oz_circle_400x250.jpg

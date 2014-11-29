@@ -8,6 +8,7 @@ categories: articles
 excerpt: 
 tags: []
 ads: false
+comments: true
 image:
   feature: 
   teaser: logo_crystal_tealight_400x250.jpg

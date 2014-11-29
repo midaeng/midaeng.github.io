@@ -8,6 +8,7 @@ categories: articles
 excerpt: 
 tags: []
 ads: false
+comments: true
 image:
   feature: 
   teaser: logo_16oz_wide_masonjar_400x250.jpg

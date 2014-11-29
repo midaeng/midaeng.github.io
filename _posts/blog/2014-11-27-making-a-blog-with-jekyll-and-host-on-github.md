@@ -4,6 +4,7 @@ title: "Making a blog with Jekyll, and host on Github"
 categories: blog
 excerpt:
 ads: false
+comments: true
 share: true
 image:
   feature: 

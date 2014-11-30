@@ -103,7 +103,6 @@ You can choose the fragrance following table!!
 	<tr>
 		<td>WHITE TEA </td>
 		<td>WHITE TEA AND BERRIES </td>
-		<td>WISTERIA </td>
 	</tr>
 </table>	
 

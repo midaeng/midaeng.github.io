@@ -8,9 +8,9 @@ comments: true
 share: true
 image:
   feature: 
-  teaser: octojekyll.png
-  credit: Github & Jekyll
-  creditlink: http://jekyllrb.com/
+  teaser: 
+  credit: 
+  creditlink: 
 ---
 
 지난 주말에 한국중독전문가협회의 추계 워크샵이 있었어요. (2013.11.30 ~ 2013.12.1) <br>

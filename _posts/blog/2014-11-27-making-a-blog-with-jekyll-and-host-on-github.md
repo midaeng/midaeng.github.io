@@ -13,6 +13,8 @@ image:
   creditlink: http://jekyllrb.com/
 ---
 
+![octojekyll](https://github.com/midaeng/midaeng.github.io/blob/master/images/octojekyll.png)
+
 <img class="alignnone size-full wp-image-58" src="/images/octojekyll.png" width="330" height="276" />
 
 This is a sample blog post.

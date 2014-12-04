@@ -58,7 +58,7 @@ You can choose the fragrance following table!!
     </tr>
   	<tr>
 	  	<td>BABY POWDER </td>
-		<td>BAIES </td>
+		<!-- <td>BAIES </td> -->
 		<td>CLEAN COTTON </td>
 		<td>CHERRY BLOSSOM </td>
 		<td>FRESH COFFEE </td>

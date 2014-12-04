@@ -65,15 +65,15 @@ You can choose the fragrance following table!!
 	</tr>
 	<tr>
 		<td>LAVENDER </td>
-		<td>LIME BASIL AND MANDARIN </td>
+		<!-- <td>LIME BASIL AND MANDARIN </td> -->
 		<td>LOVE SPELL
 		<td>MACINTOSH APPLE </td>
 		<td>MULBERRY </td>
 	</tr>
 	<tr>
 		<td>PEPPERMINT AND EUCALYPTUS </td>
-		<td>PEONY </td>
-		<td>PUMPKIN SOUFFLE </td>
+		<!-- <td>PEONY </td> -->
+		<!-- <td>PUMPKIN SOUFFLE </td> -->
 		<td>SWEET PEA </td>
 	</tr>
 	<tr>
@@ -143,7 +143,7 @@ You can choose the fragrance following table!!
     	<th>AUTUMN</th>
     </tr>
 	<tr>
-		<td>PUMPKIN SOUFFLE </td>
+		<!-- <td>PUMPKIN SOUFFLE </td> -->
 		<td>POMEGRANATE CIDER </td>
 		<td>CRANBERRY MARMALADE </td>
 		<td>MACINTOSH APPLE </td>

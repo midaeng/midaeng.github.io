@@ -52,31 +52,39 @@ You can choose the fragrance following table!!
 </table>
  -->
 
+
+
+
+
+<!-- <table>
+	<tr>
+    	<th>Korea</th>
+    </tr>
+  	<tr>
+		<td>BAIES </td>
+		<td>LIME BASIL AND MANDARIN </td>
+		<td>PEONY </td>
+		<td>PUMPKIN SOUFFLE </td>
+	</tr>
+</table> -->
+
 <table>
 	<tr>
     	<th>CLASSIC</th>
     </tr>
   	<tr>
 	  	<td>BABY POWDER </td>
-		<!-- <td>BAIES </td> -->
 		<td>CLEAN COTTON </td>
 		<td>CHERRY BLOSSOM </td>
 		<td>FRESH COFFEE </td>
+		<td>LAVENDER </td>
 	</tr>
 	<tr>
-		<td>LAVENDER </td>
-		<!-- <td>LIME BASIL AND MANDARIN </td> -->
 		<td>LOVE SPELL
 		<td>MACINTOSH APPLE </td>
 		<td>MULBERRY </td>
-	</tr>
-	<tr>
 		<td>PEPPERMINT AND EUCALYPTUS </td>
-		<!-- <td>PEONY </td> -->
-		<!-- <td>PUMPKIN SOUFFLE </td> -->
 		<td>SWEET PEA </td>
-	</tr>
-	<tr>
 	</tr>
 	<tr>
 	</tr>

@@ -34,7 +34,7 @@ image:
 >**Focus on fundamentals** <br>
 >다 중요하겠지만, 그것의 가장 근본적인 것에 집중하라. <br><br> 
 
-> ** What - How - Why? ** <br>
+>**What-How-Why?** <br>
 >궁극적으로 고객으로부터 WHY에 대한 공감을 얻어내야 한다.  <br><br>
 
 <br>

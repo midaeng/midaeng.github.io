@@ -8,12 +8,12 @@ comments: true
 share: true
 image:
   feature: 
-  teaser: /blog/MF14-Tokyo_Badge_v3_450.jpg
+  teaser: /blog/MF14-Tokyo_Badge_v3_300.png
   credit: Maker Faire Tokyo 2014
   creditlink: http://makezine.jp/event/mft2014/
 ---
 
-![Maker Faire Tokyo 2014](/images/blog/MF14-Tokyo_Badge_v3_450.jpg)
+![Maker Faire Tokyo 2014](/images/blog/MF14-Tokyo_Badge_v3_300.png)
 
 ## 메이커 페어 초보자. 일본에 가다. #
 일본은 처음이다. <br>

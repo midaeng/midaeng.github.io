@@ -8,7 +8,7 @@ comments: true
 share: true
 image:
   feature: 
-  teaser: octojekyll.png
+  teaser: /blog/octojekyll.png
   credit: Github & Jekyll
   creditlink: http://jekyllrb.com/
 ---

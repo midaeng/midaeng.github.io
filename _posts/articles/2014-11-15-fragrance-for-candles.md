@@ -62,6 +62,7 @@ You can choose the fragrance following table!!
     </tr>
   	<tr>
 		<td>BAIES </td>
+		<td>CHERRY BLOSSOM </td>
 		<td>LIME BASIL AND MANDARIN </td>
 		<td>PEONY </td>
 		<td>PUMPKIN SOUFFLE </td>
@@ -75,12 +76,11 @@ You can choose the fragrance following table!!
   	<tr>
 	  	<td>BABY POWDER </td>
 		<td>CLEAN COTTON </td>
-		<td>CHERRY BLOSSOM </td>
 		<td>FRESH COFFEE </td>
 		<td>LAVENDER </td>
+		<td>LOVE SPELL </td>
 	</tr>
 	<tr>
-		<td>LOVE SPELL
 		<td>MACINTOSH APPLE </td>
 		<td>MULBERRY </td>
 		<td>PEPPERMINT AND EUCALYPTUS </td>
@@ -172,7 +172,7 @@ You can choose the fragrance following table!!
 		<td>BLACK RASPBERRY VANILLA TYPE </td>
 		<td>CRANBERRY MARMALADE </td>
 		<td>RED CURRANT </td>
-		<td>WEDDING DAY </td>
+		<!-- <td>WEDDING DAY </td> -->
 	</tr>
 	<tr>
 	</tr>

@@ -19,7 +19,7 @@ image:
 
 jelly mason jar의 사이즈 비교를 위해 준비했어요 :) <br>
 사이즈는 4oz(120ml), 8oz(240ml) 두가지로 8oz는 길이가 두배 길어요.<br>
-[4oz Jelly mason X Daisy lid](/articles/2014-11-16-4oz-jelly-mason-x-daisy-lid.md)
+[4oz Jelly mason X Daisy lid](http://www.banglab.com/articles/4oz-jelly-mason-x-daisy-lid/)
 
 뚜껑을 열어두지 않아도 향기가 솔솔 나도록 daisy candle lid도 함께 준비했습니다.<br>
 

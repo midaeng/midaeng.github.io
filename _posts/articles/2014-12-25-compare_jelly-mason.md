@@ -15,7 +15,7 @@ image:
   thumb:
 ---
 
-![Compare jelly mason jars](/images/logo_crystal_size_compare.png)
+![Compare jelly mason jars](/images/logo_crystal_size_compare.jpg)
 
 jelly mason jar의 사이즈 비교를 위해 준비했어요 :) <br>
 사이즈는 4oz(120ml), 8oz(240ml) 두가지로 8oz는 길이가 두배 길어요.<br>

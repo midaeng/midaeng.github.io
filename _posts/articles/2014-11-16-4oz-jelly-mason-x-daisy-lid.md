@@ -15,7 +15,8 @@ image:
   thumb:
 ---
 
-<a href="/images/logo_daisy_crystaljar1.jpg"><img class="alignleft wp-image-55" src="https://bybanglab.files.wordpress.com/2014/11/logo_daisy_crystaljar1.jpg?w=300" alt="logo_daisy_crystaljar" width="444" height="400" /></a> <a href="/images/logo_jelly_crystal_fire1.jpg"><img class="alignnone wp-image-57" src="https://bybanglab.files.wordpress.com/2014/11/logo_jelly_crystal_fire1.jpg" alt="logo_jelly_crystal_fire" width="387" height="400" /></a>
+![4oz Jelly mason X Daisy lid](/images/logo_daisy_crystaljar_fire.jpg)
+
 
 ball mason 브랜드의 4oz jelly mason jar를 이용한 소이캔들입니다.<br>
 사이즈는 4oz(120ml), 8oz(240ml) 두가지로 8oz는 길이가 두배 길어요.<br>

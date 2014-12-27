@@ -14,7 +14,9 @@ image:
   teaser: logo_16oz_wide_masonjar_400x250.jpg
   thumb:
 ---
-<a href="https://bybanglab.files.wordpress.com/2014/11/logo_16oz_wide_masonjar1.jpg"><img class="alignnone size-full wp-image-53" src="https://bybanglab.files.wordpress.com/2014/11/logo_16oz_wide_masonjar1.jpg" alt="logo_16oz_wide_masonjar" width="541" height="720" /></a>
+
+![16oz Ball mason jar](/images/logo_16oz_wide_masonjar.jpg)
+
 
 캔들을 자주 태우시는 분들을 위하여 16oz (470ml) 대용량을 준비했어요. <br><br>
 여름에 카페에서 손잡이 달린 유리병에 음료를 담아주는게 한동안 유행이었는데, <br>

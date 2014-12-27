@@ -14,7 +14,8 @@ image:
   teaser: logo_7-5oz_circle_400x250.jpg
   thumb:
 ---
-<a href="https://bybanglab.files.wordpress.com/2014/11/logo_7-5oz_circle1.jpg"><img class="alignnone size-full wp-image-52" src="https://bybanglab.files.wordpress.com/2014/11/logo_7-5oz_circle1.jpg" alt="logo_7.5oz_circle" width="640" height="400" /></a>
+
+![7.5 oz/11oz Translucent jar](/images/logo_7-5oz_circle.jpg)
 
 "초 하나 주세요" 하는 분들이 많이 찾으시는 7.5 oz (220ml) 사이즈의 반투명 캔들입니다.<br>
 우유 한팩보다 조금 더 되는 양이예요. 지름 7, 높이 8.3 입니다. (초는 최대한 꽉꽉 채워서 드려요. ㅎㅎ)<br>

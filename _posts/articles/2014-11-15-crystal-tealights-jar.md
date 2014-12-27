@@ -15,9 +15,8 @@ image:
   thumb:
 ---
 
-<a href="https://bybanglab.files.wordpress.com/2014/11/logo_crystal_tealight32.jpg"><img class="alignnone size-large wp-image-60" src="https://bybanglab.files.wordpress.com/2014/11/logo_crystal_tealight32.jpg?w=840" alt="logo_crystal_tealight3" width="840" height="682" /></a>
+![Crystal tealights jar](/images/logo_crystal_tealight.jpg)
 
-&nbsp;
 
 쨔잔- 티라이트를 더 돋보이게 해주는 crystal tealight jar !! <br>
 크리스탈 컷팅된 유리로 그냥 놔둬도 반짝반짝 빛이 나요. <br>

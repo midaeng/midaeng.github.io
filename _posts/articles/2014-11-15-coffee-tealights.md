@@ -14,9 +14,8 @@ image:
   teaser: logo_coffee_tealights_400x250.jpg
   thumb:
 ---
-<a href="https://bybanglab.files.wordpress.com/2014/11/logo_coffee_tealights1.jpg"><img class="alignnone size-full wp-image-54" src="https://bybanglab.files.wordpress.com/2014/11/logo_coffee_tealights1.jpg" alt="logo_coffee_tealights" width="640" height="378" /></a>
 
-<a href="https://bybanglab.files.wordpress.com/2014/11/logo_tealights1.jpg"><img class="alignnone size-full wp-image-59" src="https://bybanglab.files.wordpress.com/2014/11/logo_tealights1.jpg" alt="logo_tealights" width="640" height="290" /></a>
+![Coffee tealights](/images/logo_coffee_tealights.jpg)
 
 소이캔들을 처음 접하시는 분들을 위해 다양한 향을 경험해볼 수 있도록 티라이트 소이캔들을 만들어봤어요. <br>
 4개, 8개 단위로 판매하고 있고요, 티라이트만 놓고 태우다가 위험하지 않을까 하는 분들을 위해 유리로 된 tealight jar도 방을 예쁘게 꾸밀 수 있도록 다양한 모양으로 업로드할 예정이예요. (기대하시라-)

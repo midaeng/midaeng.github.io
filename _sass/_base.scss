@@ -5,11 +5,11 @@
 body {
 	font-family: $base-font;
 	color: $text-color;
-	@include font-size(12);	//16
+	@include font-size(14);	//16
 }
 
 p {
-	@include font-size(12,yes,20);	//(14,yes,24)
+	@include font-size(12,yes,16);	//(14,yes,24)
 }
 
 li {

@@ -9,7 +9,7 @@ body {
 }
 
 p {
-	@include font-size(12,yes,16);	//(14,yes,24)
+	@include font-size(14,yes,20);	//(14,yes,24)
 }
 
 li {
@@ -28,16 +28,16 @@ h2 {
 	@include font-size(20);	//32
 }
 h3 {
-	@include font-size(16);	//28
+	@include font-size(18);	//28
 }
 h4 {
-	@include font-size(14);	//24
+	@include font-size(16);	//24
 }
 h5 {
-	@include font-size(12);	//20
+	@include font-size(14);	//20
 }
 h6 {
-	@include font-size(10);	//18
+	@include font-size(12);	//18
 }
 
 u,
@@ -100,7 +100,7 @@ blockquote {
 	padding-right: $gutter;
 	font-style: italic;
 	p {
-		@include font-size(12);	//16
+		@include font-size(14);	//16
 	}
 }
 
@@ -113,7 +113,7 @@ pre {
 }
 p code,
 li code {
-	@include font-size(12,no);	//(16,no)
+	@include font-size(14,no);	//(16,no)
 	color: $text-color;
 	white-space: nowrap;
 	margin: 0 2px;

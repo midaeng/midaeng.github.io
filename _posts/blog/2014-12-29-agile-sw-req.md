@@ -30,9 +30,10 @@ Agile Software Requirements, Lean Requirements Practices for Teams Programs and 
 
 **파트 1**에서는 책 전체의 오버뷰로 대규모 조직에서는 어떤 모양새로 팀을, 큰 조직의 모양을 짜야할지에 대한 내용이 담겨있다.   
 **파트 2**에서는 팀 레벨에서 다루어야 하는 역할, 산출물, activity 등에 대해 기술하고 있다.   
-  - 혹시 회사에서 스크럼을 접해봤다면 그것이 바로 팀 레벨에서 수행되는 것의 일부일 것이다. 밖에서 스크럼을 접해봤더라도 아마 팀 레벨일 것이고 아주 미미하게 프로그램 레벨이지 않을까 생각됨.  
+- 혹시 회사에서 스크럼을 접해봤다면 그것이 바로 팀 레벨에서 수행되는 것의 일부일 것이다. 밖에서 스크럼을 접해봤더라도 아마 팀 레벨일 것이고 아주 미미하게 프로그램 레벨이지 않을까 생각됨.  
+
 **파트 3**에서는 프로그램 레벨, 즉 제품 레벨에서 필요한 역할, 산출물, activity 에 대해 기술하였다.  
-  - 우리는 제품을 만들고 있기 때문에 실제적으로 이 부분에서 수행되는 것들에 대해서 고민하고 다루어야 한다. (개인적인 생각)  
+   - 우리는 제품을 만들고 있기 때문에 실제적으로 이 부분에서 수행되는 것들에 대해서 고민하고 다루어야 한다. (개인적인 생각)  
 **파트 4**는 그래서 대규모 조직이 애자일 조직으로 가능한 상태라면 전체적인 포트폴리오를 어떻게 가져갈까 이다.  
   - 우리회사는 아직 여기까진 시기상조이므로 회사 안에 있는 사람들은 파트 3까지만 보고 잘 적용해도 엄청 잘한다는 소리 들을 듯.  
   
@@ -63,7 +64,7 @@ Agile Team : agile team은 implement, test code, building을 모두 수행해야
   - user story 양식 : As a <user role>, I can <activity>, So that <Business value> -> 팀은 user's role과 business benefit 두가지 모두에 집중하는 것을 배워 새로운 functionality를 제공해야 함.   
   
 **2) Program level**
-* Releases and Potentially Shippable Increments : 여러 feature와 arch가 작업한 것을 integration 하는 레벨. 여러 팀에서 작업한 것을 합치는 과정이므로 추가 작업을 위한 빈 백로그를 준비. (Agile 2013 conference에서 Lego TDD 세션 중 맨 마지막에 놀이동산 만들기 할 때 여러 사람이 만든 것을 하나로 합치는 과정에서 높이나 크기를 시간이 필요했던 것처럼.)  
+- Releases and Potentially Shippable Increments : 여러 feature와 arch가 작업한 것을 integration 하는 레벨. 여러 팀에서 작업한 것을 합치는 과정이므로 추가 작업을 위한 빈 백로그를 준비. (Agile 2013 conference에서 Lego TDD 세션 중 맨 마지막에 놀이동산 만들기 할 때 여러 사람이 만든 것을 하나로 합치는 과정에서 높이나 크기를 시간이 필요했던 것처럼.)  
 * Product Management : enterprise에서는 겹치는 역할이 있는데, product manager와 product owner 임. 소규모 scrum 팀에서는 product owner면 커버 가능하지만 대규모로 가면 전체를 보기에 부족하다. 하여 enterprise를 위한 product manager 역할이 필요함.   
   - Responsibilities of the Agile Product Manager in the Enterprise  
       - Own the Vision and program (release) backlog  
@@ -109,8 +110,8 @@ Investment Themes : the result of the decision process is a set of themes. Theme
 
 
 #### Part IV Agile Requirements for the Portfolio (CH 20~24) ####
-- 사실 여기는 우리 회사에서는 시기상조인 부분인 것 같다. 미리 준비하는 것도 좋지만 아직 기초도 안되어 있는 상태에서 상위 레벨을 고민하는게 어떤 의미가 있을까? 지금은 Part 3에 좀 더 집중해보자.
-
+- 사실 여기는 우리 회사에서는 시기상조인 부분인 것 같다. 미리 준비하는 것도 좋지만 아직 기초도 안되어 있는 상태에서 상위 레벨을 고민하는게 어떤 의미가 있을까? 지금은 Part 3에 좀 더 집중해보자.  
+- 
 **Chapter 20 Agile Architecture**  
 **Chapter 21 Rearchitecting with Flow**  
 **Chapter 22 Moving to Agile Portfolio Management**   

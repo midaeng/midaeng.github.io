@@ -45,14 +45,6 @@ Agile Software Requirements, Lean Requirements Practices for Teams Programs and 
 #####Chapter 1 A Brief History of Software Requirements Methods  #####
 
 #####Chapter 2 The Big Picture of Agile Requirements  #####
-
-#####Chapter 3 Agile Requirements for the Team#####
-
-#####Chapter 4 Agile Requirements for the Program#####
-
-#####Chapter 5 Agile Requirements for the Portfolio#####
-  
-#### Ch 2. The big picture of agile requirements (6/20) ####
 * 크게 보면 Team level, Program level, Portfolio level 세가지로 구분할 수 있음.  
 
 1. Team level : agile 팀은 5~9명 정도로 구성하고, iteration과 release에 포함되는 user story를 define, build, test 해야 한다.  
@@ -83,6 +75,13 @@ Agile Software Requirements, Lean Requirements Practices for Teams Programs and 
 
 #####3) Portfolio level#####
 - Investment Themes : the result of the decision process is a set of themes. Themes have a much longer life span than epics, and a set of themes may be largely unchanged for up to a year or more.  
+
+#####Chapter 3 Agile Requirements for the Team#####
+
+#####Chapter 4 Agile Requirements for the Program#####
+
+#####Chapter 5 Agile Requirements for the Portfolio#####
+  
 
 ### Part II Agile Requirements for the Team (CH 6~12) ###
 - 파트 2에서는 팀 레벨에서 수행할 수 있는 애자일 요구사항에 대해 이야기하고 있다.  

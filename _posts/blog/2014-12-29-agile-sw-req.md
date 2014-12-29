@@ -37,12 +37,18 @@ Agile Software Requirements, Lean Requirements Practices for Teams Programs and 
 #####Part IV Agile Requirements for the Portfolio#####
 그래서 대규모 조직이 애자일 조직으로 가능한 상태라면 전체적인 포트폴리오를 어떻게 가져갈까 이다.  
 > 우리회사는 아직 여기까진 시기상조이므로 회사 안에 있는 사람들은 파트 3까지만 보고 잘 적용해도 엄청 잘한다는 소리 들을 듯.   
-  
+----  
+
 ### Part I Overview: The Big Picture (CH 1~5) ###
+
 #####Chapter 1 A Brief History of Software Requirements Methods  #####
+
 #####Chapter 2 The Big Picture of Agile Requirements  #####
+
 #####Chapter 3 Agile Requirements for the Team#####
+
 #####Chapter 4 Agile Requirements for the Program#####
+
 #####Chapter 5 Agile Requirements for the Portfolio#####
   
 #### Ch 2. The big picture of agile requirements (6/20) ####
@@ -105,19 +111,19 @@ Agile Software Requirements, Lean Requirements Practices for Teams Programs and 
 #####Chapter 15 The Agile Release Train#####
 ![Ch 15](/images/blog/ASR_ch15.png)  
 
-#####Chapter 16 Release Planning#####
-#####Chapter 17 Nonfunctional Requirements#####
-#####Chapter 18 Requirements Analysis Toolkit#####
-#####Chapter 19 Use Cases#####
+#####Chapter 16 Release Planning  #####
+#####Chapter 17 Nonfunctional Requirements  #####
+#####Chapter 18 Requirements Analysis Toolkit  #####
+#####Chapter 19 Use Cases  #####
 
 
 ###Part IV Agile Requirements for the Portfolio (CH 20~24)###
 - 사실 여기는 우리 회사에서는 시기상조인 부분인 것 같다. 미리 준비하는 것도 좋지만 아직 기초도 안되어 있는 상태에서 상위 레벨을 고민하는게 어떤 의미가 있을까? 지금은 Part 3에 좀 더 집중해보자.  
  
-#####Chapter 20 Agile Architecture#####
-#####Chapter 21 Rearchitecting with Flow#####
-#####Chapter 22 Moving to Agile Portfolio Management#####
-#####Chapter 23 Investment Themes, Epics, and Portfolio Planning#####
+#####Chapter 20 Agile Architecture  #####
+#####Chapter 21 Rearchitecting with Flow  #####
+#####Chapter 22 Moving to Agile Portfolio Management  #####
+#####Chapter 23 Investment Themes, Epics, and Portfolio Planning  #####
 
 
 

@@ -19,7 +19,7 @@ image:
 몇가지 기억이 남는 내용이 있어서 적어봅니다. <br>
 근데 사실 이 내용들은 굳이 실리콘밸리여서가 아니고 어떤 조직에 3년 이상 몸담고 있는 사람이라면 고민해봄직한 내용이라고 생각합니다.
 
-> **Be Independent. Don't be shy. Help others.** <br>
+>**Be Independent. Don't be shy. Help others.** <br>
 >밥은 스스로 떠먹어야 한다. 수줍으면 아무 것도 못함. 옆 사람을 도와라.  <br>
 
 >**여유를 가지고 사람을 만나라.**<br>

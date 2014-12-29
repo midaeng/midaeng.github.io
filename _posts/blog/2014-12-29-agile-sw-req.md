@@ -28,15 +28,16 @@ Agile Software Requirements, Lean Requirements Practices for Teams Programs and 
 
 #####Part II Agile Requirements for the Team#####
 팀 레벨에서 다루어야 하는 역할, 산출물, activity 등에 대해 기술하고 있다.   
-> 혹시 회사에서 스크럼을 접해봤다면 그것이 바로 팀 레벨에서 수행되는 것의 일부일 것이다. 밖에서 스크럼을 접해봤더라도 아마 팀 레벨일 것이고 아주 미미하게 프로그램 레벨이지 않을까 생각됨. 
+>> 혹시 회사에서 스크럼을 접해봤다면 그것이 바로 팀 레벨에서 수행되는 것의 일부일 것이다. 밖에서 스크럼을 접해봤더라도 아마 팀 레벨일 것이고 아주 미미하게 프로그램 레벨이지 않을까 생각됨. 
 
 #####Part III Agile Requirements for the Program#####
 프로그램 레벨, 즉 제품 레벨에서 필요한 역할, 산출물, activity 에 대해 기술하였다.  
-> 우리는 제품을 만들고 있기 때문에 실제적으로 이 부분에서 수행되는 것들에 대해서 고민하고 다루어야 한다. (개인적인 생각) 
+>> 우리는 제품을 만들고 있기 때문에 실제적으로 이 부분에서 수행되는 것들에 대해서 고민하고 다루어야 한다. (개인적인 생각) 
 
 #####Part IV Agile Requirements for the Portfolio#####
 그래서 대규모 조직이 애자일 조직으로 가능한 상태라면 전체적인 포트폴리오를 어떻게 가져갈까 이다.  
-> 우리회사는 아직 여기까진 시기상조이므로 회사 안에 있는 사람들은 파트 3까지만 보고 잘 적용해도 엄청 잘한다는 소리 들을 듯.   
+>> 우리회사는 아직 여기까진 시기상조이므로 회사 안에 있는 사람들은 파트 3까지만 보고 잘 적용해도 엄청 잘한다는 소리 들을 듯.   
+
 ----  
 
 ### Part I Overview: The Big Picture (CH 1~5) ###
@@ -89,11 +90,17 @@ Agile Software Requirements, Lean Requirements Practices for Teams Programs and 
 - 팀 레벨에서 가질 수 있는 역할과 수행해야하는 activity 등에 대해 기술하고 있음  
 
 #####Chapter 6 User Stories#####
+
 #####Chapter 7 Stakeholders, User Personas, and User Experiences#####
+
 #####Chapter 8 Agile Estimating and Velocity#####
+
 #####Chapter 9 Iterating, Backlog, Throughput, and Kanban#####
+
 #####Chapter 10 Acceptance Testing#####
+
 #####Chapter 11 Role of the Product Owner#####
+
 #####Chapter 12 Requirements Discovery Toolkit#####
 
 ### Part III Agile Requirements for the Program  (CH 13~19) ###
@@ -111,19 +118,25 @@ Agile Software Requirements, Lean Requirements Practices for Teams Programs and 
 #####Chapter 15 The Agile Release Train#####
 ![Ch 15](/images/blog/ASR_ch15.png)  
 
-#####Chapter 16 Release Planning  #####
-#####Chapter 17 Nonfunctional Requirements  #####
-#####Chapter 18 Requirements Analysis Toolkit  #####
-#####Chapter 19 Use Cases  #####
+#####Chapter 16 Release Planning#####
+
+#####Chapter 17 Nonfunctional Requirements#####
+
+#####Chapter 18 Requirements Analysis Toolkit#####
+
+#####Chapter 19 Use Cases#####
 
 
 ###Part IV Agile Requirements for the Portfolio (CH 20~24)###
 - 사실 여기는 우리 회사에서는 시기상조인 부분인 것 같다. 미리 준비하는 것도 좋지만 아직 기초도 안되어 있는 상태에서 상위 레벨을 고민하는게 어떤 의미가 있을까? 지금은 Part 3에 좀 더 집중해보자.  
  
-#####Chapter 20 Agile Architecture  #####
-#####Chapter 21 Rearchitecting with Flow  #####
-#####Chapter 22 Moving to Agile Portfolio Management  #####
-#####Chapter 23 Investment Themes, Epics, and Portfolio Planning  #####
+#####Chapter 20 Agile Architecture#####
+
+#####Chapter 21 Rearchitecting with Flow#####
+
+#####Chapter 22 Moving to Agile Portfolio Management#####
+
+#####Chapter 23 Investment Themes, Epics, and Portfolio Planning#####
 
 
 

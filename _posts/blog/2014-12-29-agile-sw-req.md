@@ -58,13 +58,13 @@ Agile team은 implement, test code, building을 모두 수행해야 한다.
 <blockquote> In its daily work, the team is supported by architects, external QA resources, documentation specialists, database specialists, source code management (SCM)/build/infrastructure support personnel, internal IT, and whoever else it takes such that the core team is fully capable of deining, developing, testing, and delivering working and tested software into the system baseline.</blockquote>  
 **위의 문장에서 알 수 있는 것**  
 
-1. 한 팀 안에서 모든 역할이 수행이 되어야 한다.  
+* 한 팀 안에서 모든 역할이 수행이 되어야 한다.  
   * 즉, 우리 회사처럼 조직이 세분화되고 심지어 사이트가 다른 상황에서, 담당자가 누군지 찾아내고 한 자리에 회의를 소집해서 그 사람들과 커뮤니케이션을 시도하기까지 드는 시간과 노동력은 정말 엄청난 낭비라는 의미.  
   * 뭔가를 만들어야하는데 남의 팀 사람에게 너가 이거 해야한다고 말할 때 싸움이 발생한다.  
   * 우리팀이 아니고 남의 팀 사람이 해야한다는 생각이 드는 순간 내가 만들고 있는 이게 뭐든 내 것이 아니게 된다. 하물며 같은 팀 내에서도 쟤보다 내가 일을 더 많이하면 짜증날텐데, 다른팀이면 오죽하겠는가.* (20141229 추가) 사이트가 떨어져있는 것이 문제는 아니라는 생각이 듦. 실리콘밸리의 유수 회사들을 보면 여러 국가에 걸쳐 사이트가 분리되어 있지만 협업이 잘 이루어지는 곳이 많다. 과연 사이트가 떨어져있는 것이 문제일까? 떨어져있다는 생각이 안들도록 마치 옆에서 일하고 있는 것처럼 환경을 꾸며주는게 중요하다.  
   => Facebook, TW사례 : 벽 한쪽에 빔 프로젝터를 이용하여 다른 사이트의 모습을 보여주고 있다. 만약 일을 하던 중에 의문이 드는 것이 있어서 NY에 있는 Matthew와 이야기를 해야한다면, 그 벽 앞에 가서 Matthew를 불러달라고 해서 이야기할 수 있다. (물론 상대방이 뭔가에 집중하고 있었을 때 이렇게 자꾸 불러댄다면 인터럽트의 성격이 짙겠지만, 사이트가 다른 것이 전혀 문제될 것이 없다는 이야기를 하고 있는것임)   
 
-2. 흔히 enterprise 조직에서는 component 팀과 feature 팀이 혼재하고 있다.  
+* 흔히 enterprise 조직에서는 component 팀과 feature 팀이 혼재하고 있다.  
 보통 **component 팀**은 shared infrastructure, subsystems, and persistent, service-oriented architectural components에 집중하고, **feature 팀**은 vertical, user-facing, value-delivery initiatives에 집중한다. 하지만 궁극적으로는 program backlog에 기반하여 work 단위로 업무를 하려면 팀은 self organizing, recognize할 수 있어야 한다.  
   * Product owner의 역할이 상당히 중요함. 이건 뒤에 나오니깐 뒷부분에 자세히.  
   * Developers and Tester : 저자는 개발자 2명에 Tester 1명 정도 비율로 적용했다고 함.  
@@ -75,13 +75,13 @@ Agile team은 implement, test code, building을 모두 수행해야 한다.
 **2. Program level**  
 
 * Releases and Potentially Shippable Increments : 여러 feature와 arch가 작업한 것을 integration 하는 단계. 여러 팀에서 작업한 것을 합치는 과정이므로 **추가 작업을 위한 빈 백로그를 준비해두는 것도 요령임.** (Agile 2013 conference에서 Lego TDD 세션 중 맨 마지막 과정이었던 8명 한팀이 모두 모여 놀이동산 만들기 할 때, 각자가 만든 것을 하나로 합치는 과정에서 높이나 크기를 맞추기 위해 시간이 필요했던 것처럼.)  
-
 * Product Management : enterprise에서는 겹치는 역할이 있는데, product manager와 product owner 임. 소규모 scrum 팀에서는 product owner 정도면 커버가 가능하지만 대규모로 가면 전체를 보기에는 부족하다. 하여 enterprise를 위한 product manager 역할이 필요하다.  
-  * Responsibilities of the Agile Product Manager in the Enterprise  
-    - Own the Vision and program (release) backlog  
-    - Manage release content  
-    - Maintain the product Roadmap  
-    - Build an effective product manager/product owner team  
+
+* Responsibilities of the Agile Product Manager in the Enterprise  
+  * Own the Vision and program (release) backlog  
+  * Manage release content  
+  * Maintain the product Roadmap  
+  * Build an effective product manager/product owner team  
 
 **3. Portfolio level**  
 

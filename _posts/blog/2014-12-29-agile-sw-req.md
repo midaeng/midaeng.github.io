@@ -18,7 +18,7 @@ image:
 ![Scaled Agile Framework Big Picture](/images/blog/ASR_scaled_agile.png)
 
 팀 단위의 Scrum을 진행하다가, 좀 더 큰 규모로 넓히기 위한 프랙티스를 공부하는 중입니다. <br>
-"Agile Software Requirements, Lean Requirements Practices for Teams Programs and the Enterprise (Dean Leffingwell)" 라는 책을 보고 있어요.  
+> "Agile Software Requirements, Lean Requirements Practices for Teams Programs and the Enterprise (Dean Leffingwell) 라는 책을 보고 있어요.  
 
 ## 전체 구성 ##
 큰 조직이 애자일 프레임웍을 갖추려면 어떤 모양이 이상적인지, 그것을 요구사항으로 풀어내고 있는 책으로 아래와 같이 파트 4개로 구성되어 있다.  

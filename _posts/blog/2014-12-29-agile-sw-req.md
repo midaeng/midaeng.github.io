@@ -13,11 +13,11 @@ image:
   creditlink: http://scaledagileframework.com/
 ---
 
-**공부하면서 조금씩 채워지는 페이지입니다.**
-
 ![Scaled Agile Framework Big Picture](/images/blog/ASR_scaled_agile.png)
 
 팀 단위의 Scrum을 진행하다가, 좀 더 큰 규모로 넓히기 위한 프랙티스를 공부하는 중입니다.  
+**공부하면서 조금씩 채워지는 페이지입니다.**
+
 <blockquote> Agile Software Requirements, Lean Requirements Practices for Teams Programs and the Enterprise (Dean Leffingwell) 라는 책을 보고 있어요. </blockquote> 
 
 ## 전체 구성 ##
@@ -36,46 +36,47 @@ image:
 
 **Part IV Agile Requirements for the Portfolio**  
 그래서 대규모 조직이 이미 애자일 조직으로 꾸려져 있고 자리를 잡은 상태라면 전체적인 포트폴리오를 어떻게 가져갈까 에 대한 부분이다.  
-- 우리회사는 아직 여기까진 시기상조이므로 회사 안에 있는 사람들은 파트 3까지만 보고 잘 적용해도 엄청 잘한다는 소리 들을 듯.
-- Agile을 잘하고 있고 그래서 enterprise agile을 고민한다는 많은 회사들을 보면 그 규모가 많아봤자 500명 정도가 아닐까 싶다. 게다가 우리회사는 SW뿐만 아니라 HW가 완제품으로 나가는 조직이기 때문에 그 인원을 산정하면 수천단위로 늘어난다. 이런 조직에서의 agile을 전파하고, 수행하며, 경험해본 사람은 많지 않을거라 본다.    
+- 우리회사는 아직 여기까진 시기상조이므로 회사 안에 있는 사람들은 파트 3까지만 보고 잘 적용해도 엄청 잘한다는 소리 들을 듯.  
+- Agile을 잘하고 있고 그래서 enterprise agile을 고민한다는 많은 회사들을 보면 그 규모가 많아봤자 500명 정도가 아닐까 싶다. 게다가 우리회사는 SW뿐만 아니라 HW가 완제품으로 나가는 조직이기 때문에 그 인원을 산정하면 수천단위로 늘어난다. 이런 조직에서의 agile을 전파하고, 수행하며, 경험해본 사람은 많지 않을거라 본다.  
 
-----  
+----------  
 
 ### Part I Overview: The Big Picture (CH 1~5) ###
 
 #####Chapter 1 A Brief History of Software Requirements Methods  #####
 
 #####Chapter 2 The Big Picture of Agile Requirements  #####
-* 크게 보면 Team level, Program level, Portfolio level 세가지로 구분할 수 있음.  
-
-1. Team level : agile 팀은 5~9명 정도로 구성하고, iteration과 release에 포함되는 user story를 define, build, test 해야 한다.  
-2. Program level : ART(Agile Release Train)은 iteration과 milestone에 대한 규칙적인 time box를 가져야 하며, 날짜, quality에 대해서는 반드시 명확한 기준을 가져야 하지만, scope은 변경될 수 있다.   
+크게 보면 **Team level, Program level, Portfolio level** 세가지로 구분할 수 있다.  
+**1. Team level** : agile 팀은 5~9명 정도로 구성하고, iteration과 release에 포함되는 user story를 define, build, test 해야 한다.  
+**2. Program level** : ART(Agile Release Train)은 iteration과 milestone에 대한 규칙적인 time box를 가져야 하며, 날짜, quality에 대해서는 반드시 명확한 기준을 가져야 하지만, scope은 변경될 수 있다.  
   - 또 Program level에서는 시스템에 대한 feature 정의에 대한 책임을 가져가기 위해 우리가 알고 있는 Product manager가 있어야 한다.  
-3. Portfolio level : a mix of investment themes에 대해 다루어야 함. requirements value delivery stream에 대해 포커싱 함.
+**3. Portfolio level** : a mix of investment themes에 대해 다루어야 함. requirements value delivery stream에 대해 포커싱 함.  
 
-#####1) Team level#####
-- Agile Team : agile team은 implement, test code, building을 모두 수행해야 함.  
-  - In its daily work, the team is supported by architects, external QA resources, documentation specialists, database specialists, source code management (SCM)/build/infrastructure support personnel, internal IT, and whoever else it takes such that the core team is fully capable of deining, developing, testing, and delivering working and tested software into the system baseline.  
-  - 위의 문장에서 뽑아낸 것은, 한 팀 안에서 모든 역할이 수행이 되어야 한다. 즉, 우리 회사처럼 조직이 세분화되고 심지어 사이트가 다른 상황에서, 담당자가 누군지 찾아내고 한 자리에 회의를 소집해서 그 사람들과 커뮤니케이션을 시도하기까지 드는 시간과 노동력은 정말 엄청난 낭비라는 의미.  
-     - 뭔가를 만들어야하는데 남의 팀 사람에게 너가 이거 해야한다고 말할 때 싸움이 발생한다.  
-     - 우리팀이 아니고 남의 팀 사람이 해야한다는 생각이 드는 순간 내가 만들고 있는 이게 뭐든 내 것이 아니게 된다. 하물며 같은 팀 내에서도 쟤보다 내가 일을 더 많이하면 짜증날텐데, 다른팀이면 오죽하겠어.  
-     - 20141229 추가) 사이트가 떨어져있는 것이 문제는 아니라는 생각이 듦. 실리콘밸리의 유수 회사들을 보면 여러 국가에 걸쳐 사이트가 분리되어 있지만 협업이 잘 이루어지는 곳이 많다. 과연 사이트가 떨어져있는 것이 문제일까? 떨어져있다는 생각이 안들도록 마치 옆에서 일하고 있는 것처럼 환경을 꾸며주는게 중요하다. => Facebook, TW사례. 벽 한쪽에 빔 프로젝터로 다른 사이트를 보여주고 있다. 만약 다른 사이트의 누군가와 이야기를 해야한다면 그 벽 앞에 가서 그 사람을 불러달라고 해서 이야기할 수 있다. (물론 상대방이 뭔가에 집중하고 있었을 때 이렇게 자꾸 불러댄다면 인터럽트의 성격이 짙겠지만, 사이트가 다른 것이 전혀 문제될 것이 없다는 이야기를 하고 있는것임)  
-  - 흔히 enterprise 조직에서는 component 팀과 feature 팀이 혼재하고, 보통 component 팀은 shared infrastructure, subsystems, and persistent, service-oriented architectural components에 집중하고, feature 팀은 vertical, user-facing, value-delivery initiatives에 집중한다. 하지만 궁극적으로는 program backlog에 기반하여 work 단위로 업무를 하려면 팀은 self organizing, recognize할 수 있어야 함.  
+**1. Team level**  
+agile team은 implement, test code, building을 모두 수행해야 한다.  
+<blockquote> In its daily work, the team is supported by architects, external QA resources, documentation specialists, database specialists, source code management (SCM)/build/infrastructure support personnel, internal IT, and whoever else it takes such that the core team is fully capable of deining, developing, testing, and delivering working and tested software into the system baseline.</blockquote>  
+* 위의 문장에서 뽑아낸 것 : 한 팀 안에서 모든 역할이 수행이 되어야 한다. 즉, 우리 회사처럼 조직이 세분화되고 심지어 사이트가 다른 상황에서, 담당자가 누군지 찾아내고 한 자리에 회의를 소집해서 그 사람들과 커뮤니케이션을 시도하기까지 드는 시간과 노동력은 정말 엄청난 낭비라는 의미.  
+1) 뭔가를 만들어야하는데 남의 팀 사람에게 너가 이거 해야한다고 말할 때 싸움이 발생한다.  
+2) 우리팀이 아니고 남의 팀 사람이 해야한다는 생각이 드는 순간 내가 만들고 있는 이게 뭐든 내 것이 아니게 된다. 하물며 같은 팀 내에서도 쟤보다 내가 일을 더 많이하면 짜증날텐데, 다른팀이면 오죽하겠는가.  
+20141229 추가) 사이트가 떨어져있는 것이 문제는 아니라는 생각이 듦. 실리콘밸리의 유수 회사들을 보면 여러 국가에 걸쳐 사이트가 분리되어 있지만 협업이 잘 이루어지는 곳이 많다. 과연 사이트가 떨어져있는 것이 문제일까? 떨어져있다는 생각이 안들도록 마치 옆에서 일하고 있는 것처럼 환경을 꾸며주는게 중요하다. => Facebook, TW사례. 벽 한쪽에 빔 프로젝터로 다른 사이트를 보여주고 있다. 만약 다른 사이트의 누군가와 이야기를 해야한다면 그 벽 앞에 가서 그 사람을 불러달라고 해서 이야기할 수 있다. (물론 상대방이 뭔가에 집중하고 있었을 때 이렇게 자꾸 불러댄다면 인터럽트의 성격이 짙겠지만, 사이트가 다른 것이 전혀 문제될 것이 없다는 이야기를 하고 있는것임)   
+
+* 흔히 enterprise 조직에서는 component 팀과 feature 팀이 혼재하고 있다.  
+보통 **component 팀**은 shared infrastructure, subsystems, and persistent, service-oriented architectural components에 집중하고, **feature 팀**은 vertical, user-facing, value-delivery initiatives에 집중한다. 하지만 궁극적으로는 program backlog에 기반하여 work 단위로 업무를 하려면 팀은 self organizing, recognize할 수 있어야 한다.  
   - Product owner의 역할이 상당히 중요함. 이건 뒤에 나오니깐 뒷부분에 자세히.  
   - Developers and Tester : 저자는 개발자 2명에 Tester 1명 정도 비율로 적용했다고 함.  
-  - user story 양식 : As a <user role>, I can <activity>, So that <Business value> -> 팀은 user's role과 business benefit 두가지 모두에 집중하는 것을 배워 새로운 functionality를 제공해야 함.   
+  - user story 양식 : As a <user role>, I can <activity>, So that <Business value> => 팀은 user's role과 business benefit 두가지 모두에 집중하는 것을 배워 새로운 functionality를 제공해야 함.   
   
-#####2) Program level#####
-- Releases and Potentially Shippable Increments : 여러 feature와 arch가 작업한 것을 integration 하는 레벨. 여러 팀에서 작업한 것을 합치는 과정이므로 추가 작업을 위한 빈 백로그를 준비. (Agile 2013 conference에서 Lego TDD 세션 중 맨 마지막에 놀이동산 만들기 할 때 여러 사람이 만든 것을 하나로 합치는 과정에서 높이나 크기를 시간이 필요했던 것처럼.)  
-- Product Management : enterprise에서는 겹치는 역할이 있는데, product manager와 product owner 임. 소규모 scrum 팀에서는 product owner면 커버 가능하지만 대규모로 가면 전체를 보기에 부족하다. 하여 enterprise를 위한 product manager 역할이 필요함.   
-  - Responsibilities of the Agile Product Manager in the Enterprise  
-    - Own the Vision and program (release) backlog  
-    - Manage release content  
-    - Maintain the product Roadmap  
-    - Build an effective product manager/product owner team  
+**2. Program level**  
+1) Releases and Potentially Shippable Increments : 여러 feature와 arch가 작업한 것을 integration 하는 단계. 여러 팀에서 작업한 것을 합치는 과정이므로 **추가 작업을 위한 빈 백로그를 준비해두는 것도 요령임.** (Agile 2013 conference에서 Lego TDD 세션 중 맨 마지막 과정이었던 8명 한팀이 모두 모여 놀이동산 만들기 할 때, 각자가 만든 것을 하나로 합치는 과정에서 높이나 크기를 맞추기 위해 시간이 필요했던 것처럼.)  
+2) Product Management : enterprise에서는 겹치는 역할이 있는데, product manager와 product owner 임. 소규모 scrum 팀에서는 product owner 정도면 커버가 가능하지만 대규모로 가면 전체를 보기에는 부족하다. 하여 enterprise를 위한 product manager 역할이 필요하다.  
+* Responsibilities of the Agile Product Manager in the Enterprise  
+  - Own the Vision and program (release) backlog  
+  - Manage release content  
+  - Maintain the product Roadmap  
+  - Build an effective product manager/product owner team  
 
-#####3) Portfolio level#####
-- Investment Themes : the result of the decision process is a set of themes. Themes have a much longer life span than epics, and a set of themes may be largely unchanged for up to a year or more.  
+**3. Portfolio level**  
+* Investment Themes : the result of the decision process is a set of themes. Themes have a much longer life span than epics, and a set of themes may be largely unchanged for up to a year or more.  
 
 #####Chapter 3 Agile Requirements for the Team#####
 

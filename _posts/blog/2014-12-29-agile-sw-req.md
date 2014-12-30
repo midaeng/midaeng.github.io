@@ -58,6 +58,7 @@ Agile을 잘하고 있고 그래서 enterprise agile을 고민한다는 많은 �
 Agile team은 implement, test code, building을 모두 수행해야 한다.  
 <blockquote> In its daily work, the team is supported by architects, external QA resources, documentation specialists, database specialists, source code management (SCM)/build/infrastructure support personnel, internal IT, and whoever else it takes such that the core team is fully capable of deining, developing, testing, and delivering working and tested software into the system baseline.</blockquote>  
 **위의 문장에서 알 수 있는 것**  
+
 1. 한 팀 안에서 모든 역할이 수행이 되어야 한다.  
   * 즉, 우리 회사처럼 조직이 세분화되고 심지어 사이트가 다른 상황에서, 담당자가 누군지 찾아내고 한 자리에 회의를 소집해서 그 사람들과 커뮤니케이션을 시도하기까지 드는 시간과 노동력은 정말 엄청난 낭비라는 의미.  
   * 뭔가를 만들어야하는데 남의 팀 사람에게 너가 이거 해야한다고 말할 때 싸움이 발생한다.  
@@ -76,12 +77,13 @@ Agile team은 implement, test code, building을 모두 수행해야 한다.
 **2. Program level**  
 
 * Releases and Potentially Shippable Increments : 여러 feature와 arch가 작업한 것을 integration 하는 단계. 여러 팀에서 작업한 것을 합치는 과정이므로 **추가 작업을 위한 빈 백로그를 준비해두는 것도 요령임.** (Agile 2013 conference에서 Lego TDD 세션 중 맨 마지막 과정이었던 8명 한팀이 모두 모여 놀이동산 만들기 할 때, 각자가 만든 것을 하나로 합치는 과정에서 높이나 크기를 맞추기 위해 시간이 필요했던 것처럼.)  
-2) Product Management : enterprise에서는 겹치는 역할이 있는데, product manager와 product owner 임. 소규모 scrum 팀에서는 product owner 정도면 커버가 가능하지만 대규모로 가면 전체를 보기에는 부족하다. 하여 enterprise를 위한 product manager 역할이 필요하다.  
-* Responsibilities of the Agile Product Manager in the Enterprise  
-  - Own the Vision and program (release) backlog  
-  - Manage release content  
-  - Maintain the product Roadmap  
-  - Build an effective product manager/product owner team  
+
+* Product Management : enterprise에서는 겹치는 역할이 있는데, product manager와 product owner 임. 소규모 scrum 팀에서는 product owner 정도면 커버가 가능하지만 대규모로 가면 전체를 보기에는 부족하다. 하여 enterprise를 위한 product manager 역할이 필요하다.  
+  * Responsibilities of the Agile Product Manager in the Enterprise  
+    - Own the Vision and program (release) backlog  
+    - Manage release content  
+    - Maintain the product Roadmap  
+    - Build an effective product manager/product owner team  
 
 **3. Portfolio level**  
 * Investment Themes : the result of the decision process is a set of themes. Themes have a much longer life span than epics, and a set of themes may be largely unchanged for up to a year or more.  

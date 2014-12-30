@@ -20,13 +20,16 @@ image:
 
 <blockquote> Agile Software Requirements, Lean Requirements Practices for Teams Programs and the Enterprise (Dean Leffingwell) 라는 책을 보고 있어요. </blockquote> 
 
-## 전체 구성 ##
+## 전체 구성
+
 큰 조직이 애자일 프레임웍을 갖추려면 어떤 모양이 이상적인지, 그것을 요구사항의 관점에서 풀어내고 있는 책으로 아래와 같이 파트 4개로 구성되어 있다.  
 
-**Part I Overview: The Big Picture**  
+###### Part I Overview: The Big Picture
+
 책 전체의 오버뷰로 대규모 조직에서는 어떤 모양새로 팀을 꾸리고, 큰 조직의 모양을 짜야할지에 대한 내용이 담겨있다.  
 
-**Part II Agile Requirements for the Team**  
+###### Part II Agile Requirements for the Team
+
 팀 레벨에서 다루어야 하는 역할, 산출물, activity 등에 대해 기술하고 있다.  
 혹시 회사에서 스크럼을 접해봤다면 그것이 바로 팀 레벨에서 수행되는 것의 일부일 것이다. 밖에서 스크럼을 접해봤더라도 아마 팀 레벨이 대부분일 것이고 아주 미미하게 프로그램 레벨이지 않을까 생각됨.  
 
@@ -40,12 +43,12 @@ Agile을 잘하고 있고 그래서 enterprise agile을 고민한다는 많은 �
 
 ----------  
 
-### Part I Overview: The Big Picture (CH 1~5) ###
+### Part I Overview: The Big Picture (CH 1~5)
 ![Scaled Agile Framework Big Picture](/images/blog/ASR_scaled_agile.png)
 
-#####Chapter 1 A Brief History of Software Requirements Methods  #####
+#####Chapter 1 A Brief History of Software Requirements Methods
 
-#####Chapter 2 The Big Picture of Agile Requirements  #####
+#####Chapter 2 The Big Picture of Agile Requirements
 크게 보면 **Team level, Program level, Portfolio level** 세가지로 구분할 수 있다.  
 **1. Team level** : agile 팀은 5~9명 정도로 구성하고, iteration과 release에 포함되는 user story를 define, build, test 해야 한다.  
 **2. Program level** : ART(Agile Release Train)은 iteration과 milestone에 대한 규칙적인 time box를 가져야 하며, 날짜, quality에 대해서는 반드시 명확한 기준을 가져야 하지만, scope은 변경될 수 있다.  
@@ -60,7 +63,7 @@ Agile team은 implement, test code, building을 모두 수행해야 한다.
 즉, 우리 회사처럼 조직이 세분화되고 심지어 사이트가 다른 상황에서, 담당자가 누군지 찾아내고 한 자리에 회의를 소집해서 그 사람들과 커뮤니케이션을 시도하기까지 드는 시간과 노동력은 정말 엄청난 낭비라는 의미.  
 1) 뭔가를 만들어야하는데 남의 팀 사람에게 너가 이거 해야한다고 말할 때 싸움이 발생한다.  
 2) 우리팀이 아니고 남의 팀 사람이 해야한다는 생각이 드는 순간 내가 만들고 있는 이게 뭐든 내 것이 아니게 된다. 하물며 같은 팀 내에서도 쟤보다 내가 일을 더 많이하면 짜증날텐데, 다른팀이면 오죽하겠는가.  
-20141229 추가) 사이트가 떨어져있는 것이 문제는 아니라는 생각이 듦. 실리콘밸리의 유수 회사들을 보면 여러 국가에 걸쳐 사이트가 분리되어 있지만 협업이 잘 이루어지는 곳이 많다. 과연 사이트가 떨어져있는 것이 문제일까? 떨어져있다는 생각이 안들도록 마치 옆에서 일하고 있는 것처럼 환경을 꾸며주는게 중요하다.  
+(20141229 추가) 사이트가 떨어져있는 것이 문제는 아니라는 생각이 듦. 실리콘밸리의 유수 회사들을 보면 여러 국가에 걸쳐 사이트가 분리되어 있지만 협업이 잘 이루어지는 곳이 많다. 과연 사이트가 떨어져있는 것이 문제일까? 떨어져있다는 생각이 안들도록 마치 옆에서 일하고 있는 것처럼 환경을 꾸며주는게 중요하다.  
 => Facebook, TW사례 : 벽 한쪽에 빔 프로젝터를 이용하여 다른 사이트의 모습을 보여주고 있다. 만약 일을 하던 중에 의문이 드는 것이 있어서 NY에 있는 Matthew와 이야기를 해야한다면, 그 벽 앞에 가서 Matthew를 불러달라고 해서 이야기할 수 있다. (물론 상대방이 뭔가에 집중하고 있었을 때 이렇게 자꾸 불러댄다면 인터럽트의 성격이 짙겠지만, 사이트가 다른 것이 전혀 문제될 것이 없다는 이야기를 하고 있는것임)   
 
 2. 흔히 enterprise 조직에서는 component 팀과 feature 팀이 혼재하고 있다.  

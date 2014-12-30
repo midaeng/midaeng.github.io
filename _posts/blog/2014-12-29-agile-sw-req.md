@@ -83,6 +83,8 @@ Agile Software Requirements, Lean Requirements Practices for Teams Programs and 
 #####Chapter 5 Agile Requirements for the Portfolio#####
   
 
+
+
 ### Part II Agile Requirements for the Team (CH 6~12) ###
 - 파트 2에서는 팀 레벨에서 수행할 수 있는 애자일 요구사항에 대해 이야기하고 있다.  
 - 총 7개의 장으로 구성되어 있으며, 각각의 제목을 보면 우리가 그동안 자주 들어왔던 것임을 알 수 있다.  특히 스크럼에 대해 들어보거나 수행했던 사람들이라면 그리 낯설지 않을 것이라 생각됨.  
@@ -101,6 +103,8 @@ Agile Software Requirements, Lean Requirements Practices for Teams Programs and 
 #####Chapter 11 Role of the Product Owner#####
 
 #####Chapter 12 Requirements Discovery Toolkit#####
+
+
 
 ### Part III Agile Requirements for the Program  (CH 13~19) ###
 - 각 장의 제목을 보면 알 수 있듯이 사업부 차원에서 바로 적용할 수 있는 부분이 바로 program level이다. 팀 레벨에서 만들어낸 요소들을 하나로 묶어내야 한다. 
@@ -124,6 +128,8 @@ Agile Software Requirements, Lean Requirements Practices for Teams Programs and 
 #####Chapter 18 Requirements Analysis Toolkit#####
 
 #####Chapter 19 Use Cases#####
+
+
 
 
 ###Part IV Agile Requirements for the Portfolio (CH 20~24)###

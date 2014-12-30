@@ -23,18 +23,18 @@ Agile Software Requirements, Lean Requirements Practices for Teams Programs and 
 ## 전체 구성 ##
 큰 조직이 애자일 프레임웍을 갖추려면 어떤 모양이 이상적인지, 그것을 요구사항으로 풀어내고 있는 책으로 아래와 같이 파트 4개로 구성되어 있다.  
 
-#####Part I Overview: The Big Picture#####
+**Part I Overview: The Big Picture**  
 책 전체의 오버뷰로 대규모 조직에서는 어떤 모양새로 팀을, 큰 조직의 모양을 짜야할지에 대한 내용이 담겨있다.  
 
-#####Part II Agile Requirements for the Team#####
+**Part II Agile Requirements for the Team**  
 팀 레벨에서 다루어야 하는 역할, 산출물, activity 등에 대해 기술하고 있다.   
 >> 혹시 회사에서 스크럼을 접해봤다면 그것이 바로 팀 레벨에서 수행되는 것의 일부일 것이다. 밖에서 스크럼을 접해봤더라도 아마 팀 레벨일 것이고 아주 미미하게 프로그램 레벨이지 않을까 생각됨. 
 
-#####Part III Agile Requirements for the Program#####
+**Part III Agile Requirements for the Program**  
 프로그램 레벨, 즉 제품 레벨에서 필요한 역할, 산출물, activity 에 대해 기술하였다.  
 >> 우리는 제품을 만들고 있기 때문에 실제적으로 이 부분에서 수행되는 것들에 대해서 고민하고 다루어야 한다. (개인적인 생각) 
 
-#####Part IV Agile Requirements for the Portfolio#####
+**Part IV Agile Requirements for the Portfolio**  
 그래서 대규모 조직이 애자일 조직으로 가능한 상태라면 전체적인 포트폴리오를 어떻게 가져갈까 이다.  
 >> 우리회사는 아직 여기까진 시기상조이므로 회사 안에 있는 사람들은 파트 3까지만 보고 잘 적용해도 엄청 잘한다는 소리 들을 듯.   
 

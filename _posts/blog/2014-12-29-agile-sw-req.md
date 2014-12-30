@@ -67,13 +67,15 @@ Agile team은 implement, test code, building을 모두 수행해야 한다.
 
 2. 흔히 enterprise 조직에서는 component 팀과 feature 팀이 혼재하고 있다.  
 보통 **component 팀**은 shared infrastructure, subsystems, and persistent, service-oriented architectural components에 집중하고, **feature 팀**은 vertical, user-facing, value-delivery initiatives에 집중한다. 하지만 궁극적으로는 program backlog에 기반하여 work 단위로 업무를 하려면 팀은 self organizing, recognize할 수 있어야 한다.  
-1) Product owner의 역할이 상당히 중요함. 이건 뒤에 나오니깐 뒷부분에 자세히.  
-2) Developers and Tester : 저자는 개발자 2명에 Tester 1명 정도 비율로 적용했다고 함.  
-3) user story 양식 : **As a (user role), I can (activity), So that (Business value)**  
+
+* Product owner의 역할이 상당히 중요함. 이건 뒤에 나오니깐 뒷부분에 자세히.  
+* Developers and Tester : 저자는 개발자 2명에 Tester 1명 정도 비율로 적용했다고 함.  
+* user story 양식 : **As a (user role), I can (activity), So that (Business value)**  
 => 팀은 user's role과 business benefit 두가지 모두에 집중하는 것을 배워 새로운 functionality를 제공해야 함.   
   
 **2. Program level**  
-1) Releases and Potentially Shippable Increments : 여러 feature와 arch가 작업한 것을 integration 하는 단계. 여러 팀에서 작업한 것을 합치는 과정이므로 **추가 작업을 위한 빈 백로그를 준비해두는 것도 요령임.** (Agile 2013 conference에서 Lego TDD 세션 중 맨 마지막 과정이었던 8명 한팀이 모두 모여 놀이동산 만들기 할 때, 각자가 만든 것을 하나로 합치는 과정에서 높이나 크기를 맞추기 위해 시간이 필요했던 것처럼.)  
+
+* Releases and Potentially Shippable Increments : 여러 feature와 arch가 작업한 것을 integration 하는 단계. 여러 팀에서 작업한 것을 합치는 과정이므로 **추가 작업을 위한 빈 백로그를 준비해두는 것도 요령임.** (Agile 2013 conference에서 Lego TDD 세션 중 맨 마지막 과정이었던 8명 한팀이 모두 모여 놀이동산 만들기 할 때, 각자가 만든 것을 하나로 합치는 과정에서 높이나 크기를 맞추기 위해 시간이 필요했던 것처럼.)  
 2) Product Management : enterprise에서는 겹치는 역할이 있는데, product manager와 product owner 임. 소규모 scrum 팀에서는 product owner 정도면 커버가 가능하지만 대규모로 가면 전체를 보기에는 부족하다. 하여 enterprise를 위한 product manager 역할이 필요하다.  
 * Responsibilities of the Agile Product Manager in the Enterprise  
   - Own the Vision and program (release) backlog  

@@ -57,13 +57,14 @@ image:
 Agile team은 implement, test code, building을 모두 수행해야 한다.  
 <blockquote> In its daily work, the team is supported by architects, external QA resources, documentation specialists, database specialists, source code management (SCM)/build/infrastructure support personnel, internal IT, and whoever else it takes such that the core team is fully capable of deining, developing, testing, and delivering working and tested software into the system baseline.</blockquote>  
 **위의 문장에서 뽑아낸 것**  
-한 팀 안에서 모든 역할이 수행이 되어야 한다. 즉, 우리 회사처럼 조직이 세분화되고 심지어 사이트가 다른 상황에서, 담당자가 누군지 찾아내고 한 자리에 회의를 소집해서 그 사람들과 커뮤니케이션을 시도하기까지 드는 시간과 노동력은 정말 엄청난 낭비라는 의미.  
+1. 한 팀 안에서 모든 역할이 수행이 되어야 한다.  
+즉, 우리 회사처럼 조직이 세분화되고 심지어 사이트가 다른 상황에서, 담당자가 누군지 찾아내고 한 자리에 회의를 소집해서 그 사람들과 커뮤니케이션을 시도하기까지 드는 시간과 노동력은 정말 엄청난 낭비라는 의미.  
 1) 뭔가를 만들어야하는데 남의 팀 사람에게 너가 이거 해야한다고 말할 때 싸움이 발생한다.  
 2) 우리팀이 아니고 남의 팀 사람이 해야한다는 생각이 드는 순간 내가 만들고 있는 이게 뭐든 내 것이 아니게 된다. 하물며 같은 팀 내에서도 쟤보다 내가 일을 더 많이하면 짜증날텐데, 다른팀이면 오죽하겠는가.  
 20141229 추가) 사이트가 떨어져있는 것이 문제는 아니라는 생각이 듦. 실리콘밸리의 유수 회사들을 보면 여러 국가에 걸쳐 사이트가 분리되어 있지만 협업이 잘 이루어지는 곳이 많다. 과연 사이트가 떨어져있는 것이 문제일까? 떨어져있다는 생각이 안들도록 마치 옆에서 일하고 있는 것처럼 환경을 꾸며주는게 중요하다.  
-=> Facebook, TW사례. 벽 한쪽에 빔 프로젝터로 다른 사이트를 보여주고 있다. 만약 다른 사이트의 누군가와 이야기를 해야한다면 그 벽 앞에 가서 그 사람을 불러달라고 해서 이야기할 수 있다. (물론 상대방이 뭔가에 집중하고 있었을 때 이렇게 자꾸 불러댄다면 인터럽트의 성격이 짙겠지만, 사이트가 다른 것이 전혀 문제될 것이 없다는 이야기를 하고 있는것임)   
+=> Facebook, TW사례 : 벽 한쪽에 빔 프로젝터를 이용하여 다른 사이트의 모습을 보여주고 있다. 만약 일을 하던 중에 의문이 드는 것이 있어서 NY에 있는 Matthew와 이야기를 해야한다면, 그 벽 앞에 가서 Matthew를 불러달라고 해서 이야기할 수 있다. (물론 상대방이 뭔가에 집중하고 있었을 때 이렇게 자꾸 불러댄다면 인터럽트의 성격이 짙겠지만, 사이트가 다른 것이 전혀 문제될 것이 없다는 이야기를 하고 있는것임)   
 
-흔히 enterprise 조직에서는 component 팀과 feature 팀이 혼재하고 있다.  
+2. 흔히 enterprise 조직에서는 component 팀과 feature 팀이 혼재하고 있다.  
 보통 **component 팀**은 shared infrastructure, subsystems, and persistent, service-oriented architectural components에 집중하고, **feature 팀**은 vertical, user-facing, value-delivery initiatives에 집중한다. 하지만 궁극적으로는 program backlog에 기반하여 work 단위로 업무를 하려면 팀은 self organizing, recognize할 수 있어야 한다.  
 1) Product owner의 역할이 상당히 중요함. 이건 뒤에 나오니깐 뒷부분에 자세히.  
 2) Developers and Tester : 저자는 개발자 2명에 Tester 1명 정도 비율로 적용했다고 함.  
@@ -92,7 +93,7 @@ Agile team은 implement, test code, building을 모두 수행해야 한다.
 
 
 ### Part II Agile Requirements for the Team (CH 6~12) ###
-파트 2에서는 팀 레벨에서 수행할 수 있는 애자일 요구사항에 대해 이야기하고 있다.  
+- 파트 2에서는 팀 레벨에서 수행할 수 있는 애자일 요구사항에 대해 이야기하고 있다.  
 - 총 7개의 장으로 구성되어 있으며, 각각의 제목을 보면 우리가 그동안 자주 들어왔던 것임을 알 수 있다.  특히 스크럼에 대해 들어보거나 수행했던 사람들이라면 그리 낯설지 않을 것이라 생각됨.  
 - 팀 레벨에서 가질 수 있는 역할과 수행해야하는 activity 등에 대해 기술하고 있음  
 
@@ -113,7 +114,7 @@ Agile team은 implement, test code, building을 모두 수행해야 한다.
 
 
 ### Part III Agile Requirements for the Program  (CH 13~19) ###
-각 장의 제목을 보면 알 수 있듯이 사업부 차원에서 바로 적용할 수 있는 부분이 바로 program level이다. 팀 레벨에서 만들어낸 요소들을 하나로 묶어내야 한다. 
+- 각 장의 제목을 보면 알 수 있듯이 사업부 차원에서 바로 적용할 수 있는 부분이 바로 program level이다. 팀 레벨에서 만들어낸 요소들을 하나로 묶어내야 한다. 
 - 제품의 비전, 제품을 이루는 feature와 로드맵이 왜 필요한지, 제품 책임자인 product manager가 팀 레벨의 product owner와 어떤 차이가 있는지 설명하고 있다.
 - 15장의 내용에 그림이 몇개 나오는데, 바로 release에 대한 내용이다. 우리 회사는 제품을 만드는 회사라서 일반적인 SW 회사에서 릴리즈하는 방식과 동일하게 적용하는건 불가하다. 즉, 기능 단위의 SW를 프레임웍과 integration을 해야하고, 이를 또 사업자에 따라 제품 레벨로 SW를 한번 통합하는 과정을 거쳐야하는데 15장과 16장에서 그에 대한 아이디어를 얻을 수 있겠다. 
 

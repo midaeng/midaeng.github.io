@@ -68,10 +68,10 @@ Agile Software Requirements, Lean Requirements Practices for Teams Programs and 
 - Releases and Potentially Shippable Increments : 여러 feature와 arch가 작업한 것을 integration 하는 레벨. 여러 팀에서 작업한 것을 합치는 과정이므로 추가 작업을 위한 빈 백로그를 준비. (Agile 2013 conference에서 Lego TDD 세션 중 맨 마지막에 놀이동산 만들기 할 때 여러 사람이 만든 것을 하나로 합치는 과정에서 높이나 크기를 시간이 필요했던 것처럼.)  
 - Product Management : enterprise에서는 겹치는 역할이 있는데, product manager와 product owner 임. 소규모 scrum 팀에서는 product owner면 커버 가능하지만 대규모로 가면 전체를 보기에 부족하다. 하여 enterprise를 위한 product manager 역할이 필요함.   
   - Responsibilities of the Agile Product Manager in the Enterprise  
-      - Own the Vision and program (release) backlog  
-      - Manage release content  
-      - Maintain the product Roadmap  
-      - Build an effective product manager/product owner team  
+    - Own the Vision and program (release) backlog  
+    - Manage release content  
+    - Maintain the product Roadmap  
+    - Build an effective product manager/product owner team  
 
 #####3) Portfolio level#####
 - Investment Themes : the result of the decision process is a set of themes. Themes have a much longer life span than epics, and a set of themes may be largely unchanged for up to a year or more.  

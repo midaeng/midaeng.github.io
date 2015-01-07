@@ -21,6 +21,6 @@ Hello, this is <b>Mijin</b> from BANG LAB. <br>
 <br>First thing is <b>fragranced soy candles<b>.<br>
 <br>XOXO- ♥<br>
 
-<br>You can meet same things in the Facebook. 
-BANG LAB. X SOY CANDLE 바로가기 : [BANG LAB. X SOY CANDLE 바로가기](http://www.facebook.com/bybanglab)
+<br>You can meet same things in the Facebook. <br>
+[BANG LAB. X SOY CANDLE 바로가기 : http://www.facebook.com/bybanglab](http://www.facebook.com/bybanglab)
 <br>

@@ -13,7 +13,7 @@ share: false
 ads: false
 ---
 
-Hello, this is Mijin from <b>BANG LAB.</b>
+<br>Hello, this is Mijin from <b>BANG LAB.</b>
 <br>I'm a maker, software developer and process engineer in Korea.<br>
 <br>I'm interested in making every handcraft things and excuting my idea than only making plans for a long time.<br>
 <br>Now, I've been opened the BANG LAB. to show/share my portfolio. <br>

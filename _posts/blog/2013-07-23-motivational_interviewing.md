@@ -54,7 +54,7 @@ Google에서 동기면담을 검색해보면 주로 도박 중독, 알콜 중독
 
 동기면담을 할 때는 Change talk(변화대화)로 상담을 진행하게 됩니다.  
 실제로 중독자 상담에서 이 change talk를 몇번 사용했는지에 따라 중독에서 벗어날 확률이 더 높았다고 합니다. (예를 들어, 알콜 중독자에게 Change talk를 1번 했더니 여전히 술을 마시고 있었고, 100번을 했더니 술을 끊었다더라.)   
-Change talk에서는 [DARN-C]: http://motivationalinterview.org/?reqp=1&reqr=pTW5rJ5iYay0pv5jLab= 를 이끌어낼 수 있도록 대화를 이끌어 나갑니다.   상담자는 이 5가지를 어떻게하면 더 많이 이끌어낼 수 있을지를 생각하며 상담을 진행해야 합니다.  
+Change talk에서는 [DARN-C](http://motivationalinterview.org/?reqp=1&reqr=pTW5rJ5iYay0pv5jLab=) 를 이끌어낼 수 있도록 대화를 이끌어 나갑니다.   상담자는 이 5가지를 어떻게하면 더 많이 이끌어낼 수 있을지를 생각하며 상담을 진행해야 합니다.  
 
 ![DARN-C](/images/blog/mi-3.png)   
 
@@ -65,7 +65,7 @@ Change talk에서는 [DARN-C]: http://motivationalinterview.org/?reqp=1&reqr=pTW
 
 상담을 진행할 때 내담자로 하여금 질문을 더 이끌어내는 방법은 뭐가 있을까요?   
 
-[OARS]: http://www.motivationalinterview.net/clinical/interaction.html 
+[OARS](http://www.motivationalinterview.net/clinical/interaction.html) 
 라는 기술이 있는데, Open-ended question, Affirmations, Reflective listening. 그리고 Summaries 입니다.   
 
 열린 질문으로 내담자로 하여금 좀 더 깊이 생각할 수 있도록 하고, 상담자가 내담자에게 확인을 통해 마음의 안정을 가져와 더 많은 생각과 대화를 이끌어내고, 반영을 통해 내담자의 상황을 공감하고 있다는 것을 전달하며, 중간중간 내용을 정리하여 처해진 상황에서 내담자로 하여금 DARN-C를 끌어낼 수 있도록 방향을 잡아주는것입니다.   

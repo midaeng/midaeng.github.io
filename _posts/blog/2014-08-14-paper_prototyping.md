@@ -104,8 +104,8 @@ Paper Prototyping을 수행한 이후에 나오는 결과물은,
 
 아, 한가지 중요한게 남았는데.  
 
-> Paper Prototyping을 수행하고 나서 나온 내용들은 반드시 문서화 해야 한다.
-activity가 끝나고 각자 할 일을 적어가는 것이 아니라 참석자 간 공유할 수 있는 문서로 만들고, 그 문서는 이후에도 지속적인 communication을 할 수 있는 seed가 된다.  
+> Paper Prototyping을 수행하고 나서 나온 내용들은 반드시 문서화 해야 한다.  
+> activity가 끝나고 각자 할 일을 적어가는 것이 아니라 참석자 간 공유할 수 있는 문서로 만들고, 그 문서는 이후에도 지속적인 communication을 할 수 있는 seed가 된다.  
 
 모두 같은 것을 바라보기..   
 

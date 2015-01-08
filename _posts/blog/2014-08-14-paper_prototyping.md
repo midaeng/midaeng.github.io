@@ -1,6 +1,6 @@
 ---
 layout: media
-title: "PAper Prototyping : 상기-UX-개발자가 서로 원활한 커뮤니케이션을 하며 요구사항 도출하"
+title: "Paper Prototyping : 상기-UX-개발자가 서로 원활한 커뮤니케이션을 하며 요구사항 도출하기"
 categories: blog
 excerpt:
 ads: false
@@ -15,7 +15,8 @@ image:
 
 개발을 하다보면 나중에 가서 communication 문제로 인해서 서로 다른 것을 생각하고 있다는 것이 밝혀집니다.
 
-그래서 지금 준비하고 있는 것이 페이퍼프로토타이핑(Paper Prototyping)인데요, 
+그래서 지금 준비하고 있는 것이 페이퍼프로토타이핑(Paper Prototyping)인데요,
+
 > 개발 초기에, 
 > 코드 한줄 없이 아이디어나 컨셉 수준에서도, 
 > 누구나, 
@@ -33,9 +34,10 @@ image:
 
 communication에 의한 문제, 사용 중 발생할 수 있는 Performance 관련 risk 등에 대해서 코드를 개발하기 이전에 미리 도출해볼 수 있습니다.
 
-Agile Prototyping Basic 자료 > Agile Prototyping_intro_v.1.3.pdf
+Paper prototyping 소개 자료는 slide share에 공유해두었어요.
+소규모로 워크숍을 할 수 있도록 자세한 진행 방법도 적어두었습니다.
 
-회사 밖에서는 어떻게 하고 있을지? 
+<iframe src="//www.slideshare.net/slideshow/embed_code/43301942" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 
 

@@ -1,6 +1,6 @@
 ---
 layout: media
-title: "동기면담(Motivational Interviewing)"
+title: "동기면담 (Motivational Interviewing)"
 categories: blog
 excerpt:
 ads: false
@@ -13,7 +13,7 @@ image:
   creditlink: 
 ---
 
-지난주 금요일에 동기면담 학회에 다녀왔어요.  
+동기면담 학회에 다녀왔어요.  
 
 ![motivational interviewing](/images/blog/mi-1.png)   
 

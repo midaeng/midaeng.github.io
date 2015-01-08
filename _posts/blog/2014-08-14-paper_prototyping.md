@@ -73,7 +73,7 @@ Paper prototyping 소개 자료는 slide share에 공유해두었어요.
 ![scenario](/images/blog/pp-4-1.png)  
 
 
-5. 사용성 측면에서 정말 사용자가 이런 시나리오로 사용하는지에 대해 논의해볼 수 있음.  
+**결론 : 사용성 측면에서 정말 사용자가 이런 시나리오로 사용하는지에 대해 논의해볼 수 있음.**  
 ![usability](/images/blog/pp-5.png)  
 
 

@@ -24,9 +24,9 @@ gems:
 
 # Site owner
 owner:
-  name: MIJIN BAEK
+  name: Mijin Baek
   avatar: avatar.jpg
-  bio: "I'm a Maker in Korea"
+  bio: I'm a software developer and process engineer in Korea. I'm interested in growing up of organize and excuting my idea than making plans long time. So I'm trying constantly to improve the process.
   email: midaeng@gmail.com
   facebook: bybanglab   
   avatar: bio-photo.png # 160x160 px image for author byline
@@ -35,6 +35,7 @@ owner:
     ad-client: 
     ad-slot: 
   disqus-shortname: banglab
+
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]

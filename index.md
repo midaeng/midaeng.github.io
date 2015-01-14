@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: logo_jars-1600x800.jpg
+  feature: title_1600x800.jpg
 ---
 
 <div class="tiles">

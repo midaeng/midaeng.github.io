@@ -19,7 +19,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Scrum Master</h2>
-  <p class="post-excerpt">I'm interested in Scrum and Kanban. I translated [Scrum Guide](http://www.scrumguides.org/docs/scrumguide/v1/Scrum-Guide-KR.pdf#zoom=100) to Korean in 2013. </p>
+  <p class="post-excerpt">I'm interested in Scrum and Kanban. I translated a <a href="http://www.scrumguides.org/docs/scrumguide/v1/Scrum-Guide-KR.pdf#zoom=100"> Scrum Guide</a> to Korean in 2013. </p>
 </div><!-- /.tile -->
 
 <div class="tile">

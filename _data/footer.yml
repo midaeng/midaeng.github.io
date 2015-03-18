@@ -7,11 +7,11 @@
   # url: /soy/
   url: /soycandle
 
-- title: MAKING
-  url: /making/
+# - title: MAKING
+#   url: /making/
 
 - title: BLOG
-  url: /blog/
+  url: /articles
 
 - title: ABOUT
   url: /about/

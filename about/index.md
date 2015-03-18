@@ -23,6 +23,4 @@ Hello, this is <b>Mijin</b>. <br>
 <br>Now, I've been opened the BANG LAB. to share my articles and portfolio. <br>
 <br>XOXO- ♥<br>
 
-<br>You can meet me in the Facebook. <br>
-[Mijin Baek : http://www.facebook.com/dooly.bang](http://www.facebook.com/dooly.bang)
-<br>
+<br>You can meet me in the [Facebook](http://www.facebook.com/dooly.bang). <br>

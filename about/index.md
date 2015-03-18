@@ -3,7 +3,7 @@ layout: article
 title: "About"
 permalink: /about/
 date: 2014-06-02T09:44:20-04:00
-modified: 2014-11-15T20:23:02-04:00
+modified: 2015-02-15T20:23:02-04:00
 excerpt: "About BANG LAB."
 image:
   feature:
@@ -13,8 +13,10 @@ share: false
 ads: false
 ---
 
+<!-- ![mijin](/images/bio-photo.png) -->
+<img src="/images/bio-photo.png" width="200" height="200">
+
 Hello, this is <b>Mijin</b>. <br>
-![mijin](/images/bio-photo.png)
 
 <br>I'm a maker, software developer and process engineer at LGE in Korea.<br>
 <br>I'm interested in growing up of organize and excuting my idea than making plans long time. So I'm trying constantly to improve the process. And also, I'm interested in making every handcrafting things.<br>

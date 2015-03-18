@@ -9,7 +9,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Maker</h2>
-  <p class="post-excerpt">I'm a Maker in Korea and this site is my portfolio. I'm interested in </p>
+  <p class="post-excerpt">I'm a Maker in Korea and this site is my portfolio. :)</p>
 </div><!-- /.tile -->
 
 <div class="tile">

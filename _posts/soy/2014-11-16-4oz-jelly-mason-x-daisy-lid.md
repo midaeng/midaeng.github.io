@@ -4,7 +4,7 @@ title: "4oz Jelly mason X Daisy lid"
 date: 2014-11-16 00:05
 author: bang_lab
 modified:
-categories: articles
+categories: soy
 excerpt: 
 tags: []
 ads: false

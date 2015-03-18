@@ -9,7 +9,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Maker</h2>
-  <p class="post-excerpt">I'm a Maker in Korea and this site is my portfolio.</p>
+  <p class="post-excerpt">I'm a Maker in Korea and this site is my portfolio. I'm interested in </p>
 </div><!-- /.tile -->
 
 <div class="tile">
@@ -24,7 +24,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Handcrafting</h2>
-  <p class="post-excerpt">I love to make all handcrafting things. The first product of BANGLAB is fabulous candles!! You can choose <a href="http://www.banglab.com/articles/fragrance-for-candles/">fragrance</a> and size. </p>
+  <p class="post-excerpt">I love to make all handcrafting things. The first product of BANGLAB is fabulous candles!! You can choose <a href="http://www.banglab.com/soy/fragrance-for-candles/">fragrance</a> and size. </p>
 </div><!-- /.tile -->
 
 

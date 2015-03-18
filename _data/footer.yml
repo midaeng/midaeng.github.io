@@ -4,7 +4,8 @@
   url: /
 
 - title: SOY CANDLES
-  url: /articles/
+  # url: /soy/
+  url: /soycandle
 
 - title: MAKING
   url: /making/

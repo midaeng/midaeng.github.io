@@ -4,7 +4,7 @@ title: "Compare jelly mason jars"
 date: 2014-12-25 22:03
 author: bang_lab
 modified:
-categories: articles
+categories: soy
 excerpt: 
 tags: []
 ads: false
@@ -18,7 +18,7 @@ image:
 ![Compare jelly mason jars](/images/logo_crystal_size_compare.jpg)
 
 daisy lid 덕분인지 가장 잘팔리는 jelly jar의 사이즈 비교를 위하여 준비했어요!  
-4oz 보기 : [4oz Jelly mason X Daisy lid](http://www.banglab.com/articles/4oz-jelly-mason-x-daisy-lid/)  
+4oz 보기 : [4oz Jelly mason X Daisy lid](http://www.banglab.com/soy/4oz-jelly-mason-x-daisy-lid/)  
 
 왼쪽이 4oz, 오른쪽이 8oz 입니다. 8oz 의 높이가 4oz의 딱 두배예요.  
 뚜껑을 열어두지 않아도 향기가 솔솔 나도록 daisy candle lid도 함께 준비했습니다.  

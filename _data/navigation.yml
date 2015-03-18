@@ -14,8 +14,8 @@
 #   image: 400x250.gif
 
 - title: Articles
-  url: /blog/
-  excerpt: "Blog posts for work"
+  url: /articles
+  excerpt: "Blog posts at work"
   image: 400x250.gif
 
 - title: ABOUT

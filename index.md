@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: title_1600x800.jpg
+  feature: bio-photo.png
 ---
 
 <div class="tiles">

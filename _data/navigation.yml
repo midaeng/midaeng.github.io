@@ -3,16 +3,17 @@
   url: /
   
 - title: SOY CANDLES
-  url: /articles/
+  # url: /articles/
+  url: midaeng.github.io/soycandle
   excerpt: "First making things by BANG LAB."
   image: 400x250.gif
 
-- title: MAKING
-  url: /making/
-  excerpt: "Examples of media posts perfect for showcasing work, etc."
-  image: 400x250.gif
+# - title: MAKING
+#   url: /making/
+#   excerpt: "Examples of media posts perfect for showcasing work, etc."
+#   image: 400x250.gif
 
-- title: BLOG
+- title: Articles
   url: /blog/
   excerpt: "Blog posts for work"
   image: 400x250.gif

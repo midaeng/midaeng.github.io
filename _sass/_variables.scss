@@ -3,14 +3,14 @@
 
 // Typography variables
 
-$base-font                   	: Georgia,Times,"Times New Roman", "Nanum Barunpen R", "Nanum Gothic", serif;
+$base-font                   	: Candara, Georgia,Times,"Times New Roman", "Nanum Barunpen R", "Nanum Gothic", serif;
 $heading-font                	: "Helvetica Neue","Segoe UI",Arial,sans-serif;
 $caption-font                	: $base-font;
 $code-font                   	: monospace;
 $alt-font                    	: $heading-font;
 
-$doc-font-size               	: 16;
-$doc-line-height             	: 24;
+$doc-font-size               	: 14;	//16
+$doc-line-height             	: 20;	//24
 
 $border-radius               	: 3px;
 

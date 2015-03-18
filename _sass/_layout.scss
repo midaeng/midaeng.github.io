@@ -255,12 +255,12 @@
 		padding: 3em;
 	}
 	h1 {
-		@include font-size(48);
+		@include font-size(44);
 		@include media($medium) {
-			@include font-size(60);
+			@include font-size(54);
 		}
 		@include media($large) {
-			@include font-size(72);
+			@include font-size(66);
 		}
 	}
 	h2 {
@@ -269,7 +269,7 @@
 			@include font-size(24);
 		}
 		@include media($large) {
-			@include font-size(32);
+			@include font-size(28);
 		}
 	}
 }
@@ -363,7 +363,7 @@
 		color: lighten($text-color,25);
 	}
 	.post-title {
-		@include font-size(18,no);
+		@include font-size(16,no);
 	}
 	.post-excerpt {
 		@include font-size(16);
@@ -419,11 +419,11 @@
 	min-height: 80px; //mirrors avatar height
 }
 .author-name {
-	@include font-size(20,no);
+	@include font-size(18,no);
 }
 .author-bio {
 	margin-top: 0;
-	@include font-size(16);
+	@include font-size(14);
 }
 
 

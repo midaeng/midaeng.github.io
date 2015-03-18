@@ -13,14 +13,14 @@ share: false
 ads: false
 ---
 
-Hello, this is <b>Mijin</b> from BANG LAB. <br>
+Hello, this is <b>Mijin</b>. <br>
+![mijin](/images/bio-photo.png)
 
-<br>I'm a maker, software developer and process engineer in Korea.<br>
-<br>I'm interested in making every handcraft things and excuting my idea than making plans only for a long time.<br>
-<br>Now, I've been opened the BANG LAB. to show & share my portfolio. <br>
-<br>First thing is <b>fragranced soy candles<b>.<br>
+<br>I'm a maker, software developer and process engineer at LGE in Korea.<br>
+<br>I'm interested in growing up of organize and excuting my idea than making plans long time. So I'm trying constantly to improve the process. And also, I'm interested in making every handcrafting things.<br>
+<br>Now, I've been opened the BANG LAB. to share my articles and portfolio. <br>
 <br>XOXO- ♥<br>
 
-<br>You can meet same things in the Facebook. <br>
-[BANG LAB. X SOY CANDLE : http://www.facebook.com/bybanglab](http://www.facebook.com/bybanglab)
+<br>You can meet me in the Facebook. <br>
+[Mijin Baek : http://www.facebook.com/dooly.bang](http://www.facebook.com/dooly.bang)
 <br>

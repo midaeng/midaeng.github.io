@@ -14,7 +14,7 @@ ads: false
 ---
 
 <!-- ![mijin](/images/bio-photo.png) -->
-<img src="/images/bio-photo.png" width="200" height="200">
+<img src="/images/bio-photo.png" width="300" height="300">
 
 Hello, this is <b>Mijin</b>. <br>
 

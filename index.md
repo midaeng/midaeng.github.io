@@ -14,7 +14,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Process Engineer</h2>
-  <p class="post-excerpt">I'm a software developer and process engineer at LGE n Korea. I'm interested in growing up of organize and excuting my idea than making plans long time. So I'm trying constantly to improve the process. </p>
+  <p class="post-excerpt">I'm a software developer and process engineer at LGE in Korea. I'm interested in growing up of organize and excuting my idea than making plans long time. So I'm trying constantly to improve the process. </p>
 </div><!-- /.tile -->
 
 <div class="tile">

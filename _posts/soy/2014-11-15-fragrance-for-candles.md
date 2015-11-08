@@ -73,12 +73,12 @@ You can choose the fragrance following table!!
 	<tr>
     	<th>개발자 초 (RECOMMEND FOR DEVELOPERS)</th>
     </tr>
-	<tr>오늘하루도 활기차게!! ENERGIZING </tr>
-	<tr>팀장ㄱㅅㄲ: RELAX </tr>
-	<tr>배포는오늘오후6시,지금은3시:FIGHTING </tr>
-	<tr>방금퇴근했는데서버가죽었다, 내마음에평화를:PEACE </tr>
-	<tr>하루를마감하며: RETROSPECTIVE </tr>
-	<tr>주말은여유롭게코딩하는날, 나만의시간: WITH COFFEE </tr>
+	<tr><td>오늘하루도 활기차게!! ENERGIZING </td></tr>
+	<tr><td>팀장ㄱㅅㄲ: RELAX </td></tr>
+	<tr><td>배포는오늘오후6시,지금은3시:FIGHTING </td></tr>
+	<tr><td>방금퇴근했는데서버가죽었다, 내마음에평화를:PEACE </td></tr>
+	<tr><td>하루를마감하며: RETROSPECTIVE </td></tr>
+	<tr><td>주말은여유롭게코딩하는날, 나만의시간: WITH COFFEE </td></tr>
 	<!--<td>BLACK RASPBERRY VANILLA TYPE </td>-->
 	<!--<td>CRANBERRY MARMALADE </td>-->
 	<!--<td>RED CURRANT </td>-->

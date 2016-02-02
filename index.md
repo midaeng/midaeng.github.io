@@ -5,8 +5,8 @@ image:
   feature: bio-photo.png
 ---
 <div class="page-lead-content">
-  <hh1 align="center">Mijin Baek</hh1>
-  <h1 align="center"> </h1>
+  <!-- <hh1 align="center">Mijin Baek</hh1> -->
+  <h1 align="center">Mijin Baek</h1>
   <h3 align="center">Agile Coach and Business Analyst in Korea.</h3>
 </div>
 

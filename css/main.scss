@@ -12,15 +12,18 @@
 
 // Partials
 @font-face {
-  font-family: 'Nanum Barunpen R';
+  font-family:'UnskinnyBop-Regular';
+  src: url(/fonts/UnskinnyBop_gdi.eot);
+  src: url(/fonts/UnskinnyBop_gdi.eot?#iefix) format('embedded-opentype'),
+    url(/fonts/UnskinnyBop_gdi.woff) format('woff'),
+    url(/fonts/UnskinnyBop_gdi.ttf) format('truetype'),
+    url(/fonts/UnskinnyBop_gdi.svg#UnskinnyBop-Regular) format('svg');
+  font-weight: 500;
   font-style: normal;
-  font-weight: 400;
-
-  src: url(/fonts/NanumBarunpenR.eot);
-  src: url(/fonts/NanumBarunpenR.eot?#iefix) format('embedded-opentype'),
-       url(/fonts/NanumBarunpenR.woff) format('woff'),
-       url(/fonts/NanumBarunpenR.ttf) format('truetype');
+  font-stretch: normal;
+  unicode-range: U+0020-201D;
 }
+
 @import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
 @import "gist";
 @import "variables";

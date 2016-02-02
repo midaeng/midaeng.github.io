@@ -17,7 +17,7 @@ li {
 }
 
 // Headings
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6, hh1 {
 	font-family: $heading-font;
 	text-rendering: optimizeLegibility; // Fix the character spacing for headings
 }
@@ -38,6 +38,11 @@ h5 {
 }
 h6 {
 	@include font-size(12);	//18
+}
+
+hh1{
+	font-family: "UnskinnyBop-Regular";
+	@include font-size(24);	//36
 }
 
 u,

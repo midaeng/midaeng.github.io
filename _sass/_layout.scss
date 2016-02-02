@@ -273,6 +273,16 @@
 			@include font-size(28);
 		}
 	}
+	hh1{
+		font-family: "UnskinnyBop-Regular";
+		@include font-size(40);	//44
+		@include media($medium) {
+			@include font-size(50);	//54
+		}
+		@include media($large) {
+			@include font-size(60);	//66
+		}
+	}
 }
 // page header
 .page-feature {

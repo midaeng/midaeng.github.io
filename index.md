@@ -5,8 +5,7 @@ image:
   feature: bio-photo.png
 ---
 <div class="page-lead-content">
-    <h2>Agile Coach and Business Analyst in Korea.</h2>
-
+    <h2 align="center">Agile Coach and Business Analyst in Korea.</h2>
 </div>
 
 <!-- <div class="tiles">

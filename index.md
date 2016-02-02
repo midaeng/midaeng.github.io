@@ -6,7 +6,7 @@ image:
 ---
 <div class="page-lead-content">
   <!-- <hh1 align="center">Mijin Baek</hh1> -->
-  <h1 align="center">Mijin Baek</h1>
+  <h2 align="center">Mijin Baek</h2>
   <h3 align="center">Agile Coach and Business Analyst in Korea.</h3>
 </div>
 

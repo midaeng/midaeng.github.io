@@ -3,7 +3,7 @@ bio: 'Agile Coach & Business Analyst in Korea.'
 bio2: ' "Welcome to BANGLAB." '
 picture: 'assets/images/bio-photo.png'
 
-url: http://banglab.com
+url: //banglab.com
 permalink: /:title/
 
 # github    : http://github.com/nandomoreirame

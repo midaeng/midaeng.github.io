@@ -1,0 +1,101 @@
+---
+title: About
+layout: compress
+permalink: /about/index.html
+---
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv=X-UA-Compatible content="IE=edge,chrome=1">
+    <meta name=viewport content="width=device-width, initial-scale=1">
+
+    <meta name=description content="{{ site.bio }}">
+    <meta name=author content="{{ site.name }}">
+
+    <title>{{ page.title }}</title>
+
+    {% seo %}
+
+    <!-- {% include favicon.html %} -->
+
+    <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.url }}{{ "/feed.xml" }}" />
+
+    <style>{% include main.css %}</style>
+</head>
+<body>
+
+    <div class="site-wrapper">
+        {% if page.tag %}
+            <div class="post">
+        {% else %}
+            <div class="{{ page.title | downcase }}">
+        {% endif %}
+
+	    <nav class="{% if page.title == "Home" %}home__header-nav{% else %}nav{% endif %}">
+		    <ul>
+		        {% if page.title != "Home" %}<li><a href="{{ site.url }}/">Home</a></li>{% endif %}
+		        {% if page.title != "Articles" %}<li><a href="{{ site.url }}/articles">Articles</a></li>{% endif %}
+		        {% if page.title != "SoyCandle" %}<li><a href="{{ site.url }}/soycandle">SoyCandle</a></li>{% endif %}        
+		        <!-- {% if page.title == "Home" %}<li><a href="http://github.com/{{ site.github }}" target="_blank">Github</a></li>{% endif %} -->
+		        {% if page.title != "About" %}<li><a href="{{ site.url }}/about">About</a></li>{% endif %}
+		    </ul>
+		</nav>
+
+		<div class="page">
+			<h1>About</h1>
+
+			<style>
+			img { width: 50%; margin: 0 auto; display: block; }
+			</style>
+
+			<img alt="{{ site.name }}" src="{{ site.url }}/{{ site.picture }}" />
+
+			<p> I’m an Agile Coach, Business Analyst, Maker and Process Engineer at LGE in Korea. I’m interested in growing up of organize and excuting my idea. So I’m trying constantly to improve the process of product. And also, I’m interested in making every handcrafting things.</p><br>
+
+			<h2>Skills</h2>
+
+			<ul class="skill-list">
+				<li>Agile Coach</li>
+				<li>Business Analyst</li>
+				<li>Facilitator</li>
+				<li>Maker</li>
+			</ul>
+
+			<h2>Projects</h2>
+
+			<ul>
+				<li><a href="http://www.banglab.com/articles/techux-10/">UX project for Keyosk and Digital menu board, Gong-cha</a></li>
+				<li><a href="http://www.banglab.com/articles/techux-07/">Lead Wearable Hackathon, LGE</a></li>
+				<li><a href="https://youtu.be/q3iNwVZSXQw">Suhari:Our attitude for a beautiful farewell, LG</a></li>
+			</ul>
+
+		</div>
+
+
+	    <footer>
+		    {{ site.name }} © {{ site.time | date: '%Y' }} <a href="{{ site.url }}/feed.xml" target="_blank"><svg class="icon icon-rss"><use xlink:href="#icon-rss"></use></svg></a>
+		</footer>
+
+        </div>
+    </div>
+
+    {% include icons.html %}
+
+    <!-- Google Analytics Tracking code -->
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', '{{ site.analytics }}']);
+        _gaq.push(['_trackPageview']);
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+</body>
+</html>
+
+

@@ -40,11 +40,11 @@ title: Home
 	        <h1>{{ site.name }}</h1>
 	        <h2>{{ site.bio }}</h2>
 	        <div class="home__header-social">
-                <a href="{{ site.facebook }}" target="_blank"><i class="fa fa-facebook-square fa-lg"><use xlink:href="#fa-facebook-square"></use></i></a>
-                <a href="{{ site.brunch }}" target="_blank"><i class="fa fa-tumblr-square  fa-lg"></i></a>
-                <a href="{{ site.instagram }}" target="_blank"><i class="fa fa-instagram fa-lg"></i></a>
-                <a href="{{ site.youtube }}" target="_blank"><i class="fa fa-youtube-play fa-lg"></i></a>
-                <a href="{{ site.linkedin }}" target="_blank"><i class="fa fa-linkedin-square fa-lg"></i></a>
+                <a href="{{ site.facebook }}" target="_blank"><i class="fa fa-facebook-square fa-2x"></i></a>
+                <a href="{{ site.brunch }}" target="_blank"><i class="fa fa-tumblr-square  fa-2x"></i></a>
+                <a href="{{ site.instagram }}" target="_blank"><i class="fa fa-instagram fa-2x"></i></a>
+                <a href="{{ site.youtube }}" target="_blank"><i class="fa fa-youtube-play fa-2x"></i></a>
+                <a href="{{ site.linkedin }}" target="_blank"><i class="fa fa-linkedin-square fa-2x"></i></a>
 	        </div>
 	    </header>
 
@@ -53,7 +53,6 @@ title: Home
 		        {% if page.title != "Home" %}<li><a href="{{ site.url }}/">Home</a></li>{% endif %}
 		        {% if page.title != "Articles" %}<li><a href="{{ site.url }}/articles">Articles</a></li>{% endif %}
 		        {% if page.title != "SoyCandle" %}<li><a href="{{ site.url }}/soycandle">SoyCandle</a></li>{% endif %}        
-		        <!-- {% if page.title == "Home" %}<li><a href="http://github.com/{{ site.github }}" target="_blank">Github</a></li>{% endif %} -->
 		        {% if page.title != "About" %}<li><a href="{{ site.url }}/about">About</a></li>{% endif %}
 		    </ul>
 		</nav>

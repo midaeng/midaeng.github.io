@@ -1,24 +1,20 @@
 name: Mijin Baek
-bio: 'Agile Coach & Business Analyst in Korea.'
+bio: 'Agile Coach in Korea.'
 bio2: ' "Welcome to BANGLAB." '
 picture: 'assets/images/bio-photo.png'
 
 url: //banglab.com
 permalink: /blog/:year/:month/:day/:title/
 
-# github    : http://github.com/nandomoreirame
-# twitter   : http://twitter.com/nandomoreirame
 facebook  : http://facebook.com/dooly.bang
 linkedin  : http://linkedin.com/in/midaeng
 instagram	: https://www.instagram.com/_midaeng
 brunch	: https://brunch.co.kr/@banglab
 youtube	: https://www.youtube.com/user/midaeng
-
+resume : https://www.notion.so/banglab/5b233e9b227a460eb2e6cb15524e2774
 
 analytics: 'UA-54298325-1'
 disqus: banglab
-#spotify: myspotify
-#github: mygithub
 
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor]
 

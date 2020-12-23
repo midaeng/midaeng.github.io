@@ -53,10 +53,10 @@ title: Home
 		    <ul>
 		        {% if page.title != "Home" %}<li><a href="{{ site.url }}/">Home</a></li>{% endif %}
 		        {% if page.title != "Articles" %}<li><a href="{{ site.url }}/articles">Articles</a></li>{% endif %}
-			{% if page.title != "About" %}<li><a href="{{ site.url }}" target="_blank">About</a></li>{% endif %}
+			<!--{% if page.title != "About" %}<li><a href="{{ site.resume }}" target="_blank">About</a></li>{% endif %} -->
 			 <!--{% if page.title != "Articles" %}<li><a href="{{ site.url }}/articles">Articles</a></li>{% endif %} -->
 		        <!--{% if page.title != "SoyCandle" %}<li><a href="{{ site.url }}/soycandle">SoyCandle</a></li>{% endif %}        -->
-		        <!--{% if page.title != "About" %}<li><a href="{{ site.resume }}/about">About</a></li>{% endif %} -->
+		        {% if page.title != "About" %}<li><a href="{{ site.url }}/about">About</a></li>{% endif %} 
 		    </ul>
 		</nav>
 

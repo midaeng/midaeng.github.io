@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>About | {{ .Site.Title }}</title>
+    <title>{{ .Title }} | {{ .Site.Title }}</title>
     {{ $style := resources.Get "css/main.css" | minify | fingerprint }}
     <link rel="stylesheet" href="{{ $style.Permalink }}">
 </head>
@@ -12,9 +12,12 @@
     <nav class="nav" style="padding: 20px; text-align: center;">
         <ul><li style="list-style: none;"><a href="{{ .Site.BaseURL }}" style="text-decoration: none; color: #666;">Home</a></li></ul>
     </nav>
-    <article class="page-about" style="max-width: 800px; margin: 0 auto; padding: 0 20px;">
-        <h1 style="text-align: center;">{{ .Title }}</h1>
-        <div class="post-content" style="line-height: 1.8;">
+    <article class="post-single" style="max-width: 800px; margin: 0 auto; padding: 40px 20px;">
+        <header>
+            <h1 style="font-size: 2em; margin-bottom: 10px;">{{ .Title }}</h1>
+            <div class="date" style="color: #999; margin-bottom: 30px;">{{ .Date.Format "2006-01-02" }}</div>
+        </header>
+        <div class="post-content" style="line-height: 1.8; font-size: 1.1em;">
             {{ .Content }}
         </div>
     </article>

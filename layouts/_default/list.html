@@ -1,18 +1,29 @@
-{{ partial "head.html" . }}
+<!DOCTYPE html>
+<html lang="ko-KR">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ .Title }} | {{ .Site.Title }}</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    {{ $style := resources.Get "css/main.css" | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $style.Permalink }}">
+</head>
+<body>
 <div class="site-wrapper">
     <nav class="nav">
         <ul><li><a href="{{ .Site.BaseURL }}">Home</a></li></ul>
     </nav>
     <div class="list-page">
-        <h1>{{ .Title }}</h1>
-        <ul class="article-list">
+        <h1 style="text-align: center; margin-top: 50px;">{{ .Title }}</h1>
+        <ul class="article-list" style="list-style: none; padding: 20px; max-width: 800px; margin: 0 auto;">
             {{ range .Paginator.Pages }}
-            <li class="article-item">
-                <span class="date">{{ .Date.Format "2006-01-02" }}</span>
-                <a href="{{ .Permalink }}">{{ .Title }}</a>
+            <li class="article-item" style="margin-bottom: 15px; border-bottom: 1px solid #eee; padding-bottom: 10px;">
+                <span class="date" style="color: #888; margin-right: 15px; font-size: 0.9em;">{{ .Date.Format "2006-01-02" }}</span>
+                <a href="{{ .Permalink }}" style="text-decoration: none; color: #333; font-weight: 500;">{{ .Title }}</a>
             </li>
             {{ end }}
         </ul>
-        {{ partial "pagination.html" . }}
     </div>
 </div>
+</body>
+</html>

@@ -18,8 +18,10 @@ outputs:
 
 params:
   defaultTheme: light
-  # 에러 방지를 위한 작성자 정보
-  author: "Mijin Baek" 
+  author: "Mijin Baek"
+  # 아래 두 줄을 추가해 보세요 (자산 경로 최적화)
+  assets:
+    disableFingerprinting: true
 
 menu:
   main:

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ko-KR">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="description" content="{{ .Site.Params.bio }}">
+    <meta name="author" content="{{ .Site.Params.author }}">
+
+    <title>{{ .Title }} | {{ .Site.Title }}</title>
+
+    {{ $favicon := resources.Get "images/favicon.png" }}
+    {{ if $favicon }}
+    <link rel="icon" type="image/png" href="{{ $favicon.Permalink }}" />
+    {{ end }}
+
+    {{ $style := resources.Get "css/main.css" | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $style.Permalink }}">
+</head>
+<body>
+    <div class="site-wrapper">
+        <div class="home">
+            <header class="home__header">
+                <img alt="{{ .Site.Params.author }}" src="{{ .Site.BaseURL }}images/profile.png" />
+
+                <h1>{{ .Site.Params.author }}</h1>
+                <h2>{{ .Site.Params.bio }}</h2>
+                
+                <div class="home__header-social">
+                    {{ with .Site.Params.facebook }}<a href="{{ . }}" target="_blank">FB</a>{{ end }}
+                    {{ with .Site.Params.instagram }}<a href="{{ . }}" target="_blank">IG</a>{{ end }}
+                </div>
+            </header>
+
+            <nav class="home__header-nav">
+                <ul>
+                    <li><a href="{{ .Site.BaseURL }}">Home</a></li>
+                    <li><a href="{{ .Site.BaseURL }}posts">Work</a></li>
+                    <li><a href="{{ .Site.BaseURL }}about">Parenting</a></li>
+                    <li><a href="{{ .Site.BaseURL }}about">About</a></li>
+                </ul>
+            </nav>
+
+            <footer>
+                {{ .Site.Params.author }} © {{ now.Format "2006" }}
+            </footer>
+        </div>
+    </div>
+</body>
+</html>

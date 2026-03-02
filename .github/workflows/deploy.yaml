@@ -17,10 +17,12 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: 'latest'
+          # 최신 버전(latest) 대신 안정적인 버전을 명시합니다.
+          hugo-version: '0.140.0' 
           extended: true
       - name: Build
-        run: hugo --minify
+        # 로그에서 확인된 대로 루트 경로를 테마로 사용하여 빌드합니다.
+        run: hugo --minify --themesDir . -t .
       - name: Upload
         uses: actions/upload-pages-artifact@v3
         with:

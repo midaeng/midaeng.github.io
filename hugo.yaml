@@ -1,5 +1,18 @@
 baseURL: "https://www.banglab.com/"
 title: "BangLab"
-theme: "PaperMod"
 languageCode: ko-kr
 hasCJKLanguage: true
+
+# [해결 포인트 1] 현재 루트를 테마로 인식하게 함
+themesDir: "."
+theme: "."
+
+# [해결 포인트 2] 에러를 일으키는 Author 필드 관련 충돌을 방지하기 위해 
+# RSS 및 출력을 표준 방식으로 제한합니다.
+outputs:
+  home: [HTML, RSS, JSON]
+
+params:
+  defaultTheme: light
+  # 테마에서 요구하는 기본 저자 정보를 명시적으로 넣어 에러를 방지합니다.
+  author: "midaeng"

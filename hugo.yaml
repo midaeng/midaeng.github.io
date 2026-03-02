@@ -6,6 +6,7 @@ hasCJKLanguage: true
 # 1. 테마 및 경로 설정
 # 현재 루트에 layouts가 있어도 PaperMod를 기반으로 작동하게 합니다.
 theme: "PaperMod"
+themesDir: "themes" # themes 폴더 안에서 찾으라고 명시
 assetDir: "assets"
 
 # 2. 출력 설정 (RSS 충돌 방지 및 HTML 우선)

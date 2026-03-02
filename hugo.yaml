@@ -1,0 +1,5 @@
+baseURL: "https://www.banglab.com/"
+title: "BangLab"
+theme: "PaperMod"
+languageCode: ko-kr
+hasCJKLanguage: true

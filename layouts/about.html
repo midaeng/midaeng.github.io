@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="ko-KR">
+<head>
+    {{ partial "head.html" . }} 
+</head>
+<body>
+    <div class="site-wrapper">
+        <nav class="nav">
+            <ul>
+                <li><a href="{{ .Site.BaseURL }}">Home</a></li>
+            </ul>
+        </nav>
+
+        <div class="about-content">
+            {{ .Content }}
+        </div>
+
+        <footer>
+            {{ .Site.Params.author }} © {{ now.Format "2006" }}
+        </footer>
+    </div>
+</body>
+</html>

@@ -1,4 +1,4 @@
-baseURL: "https://www.banglab.com/"
+baseURL: "https://midaeng.github.io/midaeng-hugo/"
 title: "BangLab"
 languageCode: ko-kr
 hasCJKLanguage: true
@@ -19,7 +19,7 @@ outputs:
 params:
   defaultTheme: light
   # 에러 방지를 위한 작성자 정보
-  author: "midaeng" 
+  author: "Mijin Baek" 
 
 menu:
   main:

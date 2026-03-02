@@ -851,3 +851,59 @@ footer a svg:hover {
   background-image: -webkit-linear-gradient(top, rgba(39,243,106,0.15), rgba(39,243,106,0.15));
   background-image: linear-gradient(to bottom, rgba(39,243,106,0.15), rgba(39,243,106,0.15));
 }
+
+/* 리스트 페이지 컨테이너 */
+.list-container {
+    max-width: 900px;
+    margin: 60px auto;
+    padding: 0 20px;
+}
+
+/* 연도별 그룹 레이아웃 */
+.year-group {
+    display: flex;
+    border-top: 1px solid #ddd;
+    padding: 20px 0;
+}
+
+.year-label {
+    width: 100px;
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #333;
+    margin: 0;
+}
+
+.article-list {
+    flex: 1;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+/* 개별 아티클 항목 */
+.article-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 12px;
+}
+
+.article-title {
+    text-decoration: none;
+    color: #007bff; /* 기존 사이트의 파란색 링크 느낌 */
+    font-size: 1.05rem;
+    flex: 1;
+    margin-right: 20px;
+}
+
+.article-title:hover {
+    text-decoration: underline;
+}
+
+.article-date {
+    color: #888;
+    font-size: 0.9rem;
+    min-width: 80px;
+    text-align: right;
+}

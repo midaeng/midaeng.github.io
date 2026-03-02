@@ -43,13 +43,13 @@ menu:
       url: "/"
       weight: 10
     - name: Work
-      url: "/work" # content/work 폴더와 매칭
+      url: "work/" # content/work 폴더와 매칭
       weight: 20
     - name: Parenting
-      url: "/parenting" # content/parenting 폴더와 매칭
+      url: "parenting/" # content/parenting 폴더와 매칭
       weight: 30
     - name: About
-      url: "/about"
+      url: "about/"
       weight: 40
 
 

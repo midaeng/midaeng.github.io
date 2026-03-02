@@ -42,9 +42,10 @@
 
             <nav class="home__header-nav">
                 <ul>
-                    {{ range .Site.Menus.main }}
-                    <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
-                    {{ end }}
+                    <li><a href="{{ .Site.BaseURL }}">Home</a></li>
+                    <li><a href="{{ .Site.BaseURL }}work/">Work</a></li>
+                    <li><a href="{{ .Site.BaseURL }}parenting/">Parenting</a></li>
+                    <li><a href="{{ .Site.BaseURL }}about/">About</a></li>
                 </ul>
             </nav>
 

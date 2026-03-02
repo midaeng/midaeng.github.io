@@ -42,8 +42,11 @@ menu:
       url: "/"
       weight: 10
     - name: Work
-      url: "/posts"
+      url: "/work" # content/work 폴더와 매칭
       weight: 20
+    - name: Parenting
+      url: "/parenting" # content/parenting 폴더와 매칭
+      weight: 30
     - name: About
       url: "/about"
-      weight: 30
+      weight: 40

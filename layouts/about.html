@@ -15,6 +15,13 @@
             {{ .Content }}
         </div>
 
+        <article class="page-about">
+            <h1>{{ .Title }}</h1>
+            <div class="post-content">
+                {{ .Content }}
+            </div>
+        </article>
+
         <footer>
             {{ .Site.Params.author }} © {{ now.Format "2006" }}
         </footer>

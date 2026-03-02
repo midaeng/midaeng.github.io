@@ -1,0 +1,18 @@
+{{ partial "head.html" . }}
+<div class="site-wrapper">
+    <nav class="nav">
+        <ul><li><a href="{{ .Site.BaseURL }}">Home</a></li></ul>
+    </nav>
+    <div class="list-page">
+        <h1>{{ .Title }}</h1>
+        <ul class="article-list">
+            {{ range .Paginator.Pages }}
+            <li class="article-item">
+                <span class="date">{{ .Date.Format "2006-01-02" }}</span>
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+            </li>
+            {{ end }}
+        </ul>
+        {{ partial "pagination.html" . }}
+    </div>
+</div>

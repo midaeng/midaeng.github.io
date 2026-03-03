@@ -140,6 +140,66 @@ body {
 h2 { font-size: 2.6rem; color: #222; margin: 40px 0 20px; }
 h3 { font-size: 2.2rem; color: #222; }
 
+/* About 페이지 전용 스타일 */
+.about-page-container {
+    max-width: 700px; /* 이력서 내용이 많으므로 폭을 조금 넓힘 */
+    margin: 0 auto;
+    padding: 0 20px 100px;
+}
+
+.about-title {
+    font-size: 3.2rem;
+    text-align: center;
+    margin-bottom: 50px;
+    color: #222;
+}
+
+/* 자기소개 요약문 (Blockquote) 스타일 */
+.about-content blockquote {
+    border-left: none;
+    padding: 0;
+    margin: 0 0 50px 0;
+    text-align: center; /* 중앙 정렬로 임팩트 부여 */
+}
+
+.about-content blockquote p {
+    font-size: 2rem;
+    line-height: 1.6;
+    color: #333;
+    word-break: keep-all; /* 한글 줄바꿈 최적화 */
+}
+
+/* 섹션 제목 (Books, Company 등) */
+.about-content h2 {
+    font-size: 2.2rem;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
+    margin-top: 60px;
+    margin-bottom: 25px;
+}
+
+/* 이력 리스트 간격 조정 */
+.about-content ul {
+    padding-left: 20px;
+    list-style-type: none; /* 불필요한 점 제거 혹은 깔끔하게 변경 */
+}
+
+.about-content li {
+    font-size: 1.6rem;
+    margin-bottom: 12px;
+    line-height: 1.6;
+    color: #555;
+    position: relative;
+}
+
+/* 리스트 앞에 작은 점 추가 (선택 사항) */
+.about-content li::before {
+    content: "•";
+    position: absolute;
+    left: -15px;
+    color: #4b0082;
+}
+
 /* 7. 네비게이션 & 푸터 */
 .home__header-nav {
     margin: 40px 0;

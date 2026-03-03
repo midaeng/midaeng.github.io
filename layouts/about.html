@@ -9,12 +9,13 @@
 </head>
 <body>
 <div class="site-wrapper">
-    <nav class="nav" style="padding: 20px; text-align: center;">
-        <ul><li style="list-style: none;"><a href="{{ .Site.BaseURL }}" style="text-decoration: none; color: #666;">Home</a></li></ul>
+    <nav class="nav" style="padding: 40px 0; text-align: center;">
+        <ul><li style="list-style: none;"><a href="{{ .Site.BaseURL }}" style="text-decoration: none; color: #333; font-weight: 600;">HOME</a></li></ul>
     </nav>
-    <article class="page-about" style="max-width: 800px; margin: 0 auto; padding: 0 20px;">
-        <h1 style="text-align: center;">{{ .Title }}</h1>
-        <div class="post-content" style="line-height: 1.8;">
+    
+    <article class="about-page-container">
+        <h1 class="about-title">{{ .Title }}</h1>
+        <div class="about-content">
             {{ .Content }}
         </div>
     </article>

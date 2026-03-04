@@ -1,6 +1,7 @@
 ---
 title: "About"
-layout: "about"  # 별도의 레이아웃을 쓸 예정
+type: "page"      # 중요: 이 문서의 타입을 page로 선언
+layout: "about"    # layouts/page/about.html 또는 layouts/about.html을 찾게 함
 url: "/about"
 ---
 

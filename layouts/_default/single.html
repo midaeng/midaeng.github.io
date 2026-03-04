@@ -17,7 +17,9 @@
             <h1 style="font-size: 2em; margin-bottom: 10px;">{{ .Title }}</h1>
             
             {{ if ne .Type "about" }}
-            <div class="date" style="color: #999; margin-bottom: 30px;">{{ .Date.Format "2006-01-02" }}</div>
+                <div class="date" style="color: #999; margin-bottom: 30px;">
+                    {{ .Date.Format "2006-01-02" }}
+                </div>
             {{ end }}
         </header>
         <div class="post-content" style="line-height: 1.8; font-size: 1.1em;">

@@ -3,10 +3,10 @@ layout: post
 title: "도쿄 메이커페어 방문기 (1) - Process | Visiting Maker Faire Tokyo 2014!!"
 ---
 
-<img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/MF14-Tokyo_Badge_v3_300.png"/> 
+<img class="alignnone size-full wp-image-58" src="/images/work/MF14-Tokyo_Badge_v3_300.png"/> 
 
 ## 메이커 페어 초보자. 일본에 가다. ##
-<img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/mft_in_front.jpg"/> 
+<img class="alignnone size-full wp-image-58" src="/images/work/mft_in_front.jpg"/> 
 
 일본은 처음이다.  
 고등학교 때 제2외국어로 일본어를 배우긴 했다.  
@@ -20,14 +20,14 @@ title: "도쿄 메이커페어 방문기 (1) - Process | Visiting Maker Faire To
 첫번째 포스트는 메이커 페어 자체에 대한 내용보다는 그들의 프로세스에 대한 내용을 적어볼까 한다.  
 
 아참, 애당초 계획은 입장하면서 스티커를 받아 맥북에 간지나게 붙여서 나도 메이커페어 다니는 여자라는걸 뽐내고싶었으나 스티커는 early bird만 준다는 예상치 못한 반전 덕분에 다녀온거 티를 낼 수가 없어서 전시장 한쪽 구석에 있던 뽑기를 통해 ¥300에 뽑아내어 가방에 예쁘게 달아주었음. 치사하다!! 그거 얼마나 한다고!! 하여간 아래 사진이 영광의 뱃지!!! 안뗄거야!!!   
-<img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/mft_badge.jpg"/> 
+<img class="alignnone size-full wp-image-58" src="/images/work/mft_badge.jpg"/> 
 
 
 #### 볼거리 ####
 **좋았던 점**  
 한국보다 규모가 컸다. 볼 거리가 많을 것이라는 예상을 하고 입장.  
 재미있는 프로토타이핑들이 많았다.  
-<img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/mft_wink.jpg"/>
+<img class="alignnone size-full wp-image-58" src="/images/work/mft_wink.jpg"/>
 
 **아쉬운점**  
 기대한 바는, 아기자기한 것이 많을 것이라 생각했는데 너무 아두이노와 같은 전자 기기쪽만 있었다.  
@@ -45,14 +45,14 @@ title: "도쿄 메이커페어 방문기 (1) - Process | Visiting Maker Faire To
 그 모니터로 사진과 내용을 보고 버튼을 꾹꾹 눌러 주문 버튼을 누르면 주문이 완료 되는 것이고, 얼마 후에 내 앞에 있는 3층짜리 컨베이어 벨트로 음식이 배달이 된다. 나는 접시를 받아들고 버튼을 누르면 서빙이 완료되는 되는 그런 시스템이었다.   
 다 먹은 후에는 모니터의 '정산' 버튼을 누르면 계산대의 점원에게 신호가 가서 기다리지 않고 바로 각자가 먹은 것을 계산하고 나갈 수 있는 프로세스가 갖춰져있었다.   
 프로세스 엔지니어라서 더 그랬겠지만, 이렇게되면 사람이 정말 필요없겠구나. 시스템이 정말 효율적으로 최적화 되어있다는 생각이 많이 들었다.  
-<img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/mft_sushi.jpg"/>
+<img class="alignnone size-full wp-image-58" src="/images/work/mft_sushi.jpg"/>
 
 #### 줄을 서시오 ####
 일본에 머무른 하루 반동안 일종의 패턴으로 보여서 정말 놀라운 광경이었는데, 어딜가나 줄세우는 사람이 한명 이상씩 있었다.  
 1. 메이커페어장에 좀 일찍 도착해는데 줄세우는 사람이 줄서라고 계속 일렬로 세웠고, 나중에 다른 사람이 와서 앞으로 좀 붙어달라고 하며 돌아다녔다.   
 2. 오후에 시내로 나가려고 버스정류장에 갔더니 기사처럼 보이는 할아버지 두명이 어디로 가냐고 물으시더니 여기라고 줄을 서라고 하셨다. 나를 제외한 두명은 줄 밖에 나가서 있었더니 계속 줄에 들어와서 반듯하게 서라고 했다.   
 3. 돌아오는날 공항버스를 타러갔는데, 저 멀리 어떤 가게 앞에 엄청 많은 사람들이 일렬로 줄을 길게 서있는 가게가 보였다. 맛집이라도 되나 해서 지나가면서 봤더니 복권을 파는 가게였다. 옆으로 삐져나간 사람 없이 모두들 일렬로 줄을 서 있었다. 정말 신기했다.   
-<img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/mft_in_a_line.jpg"/>
+<img class="alignnone size-full wp-image-58" src="/images/work/mft_in_a_line.jpg"/>
 4. 그렇게 공항버스 정류장에 도착하니 웬 청년이 기다리고 있다가 버스가 언제오는지 요금은 얼마인지 설명해줬다. 버스에 탑승하고 그 다음 정류장에 갔을 때에도 똑같이 청년이 줄을 세우고 한명씩 탑승을 시켰다.  
 줄 서는 것에 강박관념이라도 있는 것일까? 이렇게까지 줄을 서게된 이유가 좀 궁금해졌다.
 

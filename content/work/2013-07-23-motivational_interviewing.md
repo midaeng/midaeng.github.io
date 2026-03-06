@@ -5,7 +5,7 @@ title: "동기면담 (Motivational Interviewing)"
 
 동기면담 학회에 다녀왔어요.  
 
-<img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/mi-1.png"/>   
+<img class="alignnone size-full wp-image-58" src="/images/work/mi-1.png"/>   
 
 모 대학 교수님께서 이끄시는 학회인데 관심있는 사람도 참여할 수가 있어서 지인께서 소개를 해주셨습니다.  
 학기가 시작하면 학회도 시작하고 끝나면 같이 방학에 들어가는데, 지난 금요일은 번외편으로 동기면담이 무엇인지에 대해 overview 해주는 시간을 가졌습니다.  
@@ -30,7 +30,7 @@ title: "동기면담 (Motivational Interviewing)"
 Google에서 동기면담을 검색해보면 주로 도박 중독, 알콜 중독, 약물 중독 등에 대한 논문이나 사례가 많이 나오는데, 여기에서 볼 수 있듯이 동기면담의 시발점은 중독자 상담이었습니다.  
 도박, 약물 등등에 중독된 사람들이 그것으로 부터 벗어나게 할 수 있도록 스스로 목표를 세우고 그것을 실행할 수 있게 그들에게 공감하고 조언을 해주어, 스스로에게 선택의 자유와 변할 수 있는 충분한 능력이 있다는 것을 격려하며 확신을 시켜주는 것이죠.  
 
-<img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/mi-2.png"/>   
+<img class="alignnone size-full wp-image-58" src="/images/work/mi-2.png"/>   
 
 시작은 그랬지만, 동기라는 것은 누구에게나 필요합니다.  
 일을 할 때에도 내 상사가 준 이 일을 하는 목적과 방향이 분명하지 않으면 늘어지게 되고, 내가 왜 이걸 하고있는지 모르게 되겠죠.  
@@ -45,12 +45,12 @@ Google에서 동기면담을 검색해보면 주로 도박 중독, 알콜 중독
 실제로 중독자 상담에서 이 change talk를 몇번 사용했는지에 따라 중독에서 벗어날 확률이 더 높았다고 합니다. (예를 들어, 알콜 중독자에게 Change talk를 1번 했더니 여전히 술을 마시고 있었고, 100번을 했더니 술을 끊었다더라.)   
 Change talk에서는 [DARN-C](http://motivationalinterview.org/?reqp=1&reqr=pTW5rJ5iYay0pv5jLab=) 를 이끌어낼 수 있도록 대화를 이끌어 나갑니다.   상담자는 이 5가지를 어떻게하면 더 많이 이끌어낼 수 있을지를 생각하며 상담을 진행해야 합니다.  
 
-<img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/mi-3.png"/>   
+<img class="alignnone size-full wp-image-58" src="/images/work/mi-3.png"/>   
 
 자세히 보면 DARN 옆에 하이픈 ( - )이 있고 C가 떨어져 있는데, 그 이유는 DARN 보다 C가 더 높은 수준의 변화를 이끌어내기 때문입니다.  
 사실은 C 다음에 AT가 더 있어요. 옆에 예시에 적어둔 것과 같이 AT 단계는 이미 변화가 많이 진행된 상태입니다.  
 
-<img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/mi-4.png"/>   
+<img class="alignnone size-full wp-image-58" src="/images/work/mi-4.png"/>   
 
 상담을 진행할 때 내담자로 하여금 질문을 더 이끌어내는 방법은 뭐가 있을까요?   
 
@@ -72,9 +72,9 @@ XOXO-
 
 
 p.s. 관련된 링크도 몇개 남겨봅니다.  
-[http://www.motivationalinterview.org](http://www.motivationalinterview.org){:target="_blank"}   
-[http://www.motivationalinterview.net](http://www.motivationalinterview.net){:target="_blank"}   
-[http://swprocess.egloos.com/2942477](http://swprocess.egloos.com/2942477){:target="_blank"}   
+[http://www.motivationalinterview.org](http://www.motivationalinterview.org)   
+[http://www.motivationalinterview.net](http://www.motivationalinterview.net)   
+[http://swprocess.egloos.com/2942477](http://swprocess.egloos.com/2942477)   
 
 
 

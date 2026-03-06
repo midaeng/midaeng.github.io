@@ -41,7 +41,7 @@ Motion Design을 하는데 fidelity(충실도)에 따라 손 그림부터 실제
 
 개인적으로는 개발하면서 왼편에 있는 것들은 거의 다 해본 것 같아요.   
 하지만 오른 편에 있는 것들 중에 두어개는 개인적으로는 사용해봤어도 개발하면서는 해본적이 없는 것 같네요.   
-<img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/Design_interactionvsmotion.png"/>  
+<img class="alignnone size-full wp-image-58" src="/images/work/Design_interactionvsmotion.png"/>  
 
 발표에서 두가지를 구분해놓은 것은, 그저 잘게 쪼개기 위해서가 아니라 각 단계마다 접근 방법과 사용되는 툴이 달라서이기도 합니다.   
 
@@ -52,11 +52,11 @@ Motion Design을 하는데 fidelity(충실도)에 따라 손 그림부터 실제
 이 작업들은 어디까지나 컨셉을 구체화하는 단계입니다. 이게 실제 시스템에서 어떻게 동작할지는 아직 더 많이 남아있어요.  
 
 하지만 실무에서 보면 꽤 많은 업무들이 High fidelity의 product story telling으로 시작하지 않나 싶습니다. 그리고는 power point 낱장으로 제품을 이루는 각 부분의 "시나리오"를 표현하는데에서 design 작업이 마무리되는 것 같아요.  
-<img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/Design_fidelity_range.png"/>  
+<img class="alignnone size-full wp-image-58" src="/images/work/Design_fidelity_range.png"/>  
 
 본 발표자료에서는 design에 대해서 언급하고 있지만, 컨셉이 구체화되기까지는 아래 그림과 같이 각 단계가 반복적으로 수행되어야 합니다. 뻔한 이야기같고 귀찮은 작업이라고 생각되겠지만, 마치 애자일 개발을 할 때처럼 iteration을 여러번 돌면서 말이죠.   
-<img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/Design_best_tool.png"/>  
+<img class="alignnone size-full wp-image-58" src="/images/work/Design_best_tool.png"/>  
 
 그리고 tool은 내가 가진 아이디어를 다른 사람에게 "잘 설명하기 위한" 도구로 사용되어 communication을 더 활성화하기 위한 도구로 사용해야 합니다.  
 하지만 많은 경우, tool 자체가 메인이 되기 때문에 좋은 제품으로 이어지는게 어려운 게 아닐까요?   
-<img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/Design_perfect_tool.png"/>  
+<img class="alignnone size-full wp-image-58" src="/images/work/Design_perfect_tool.png"/>  

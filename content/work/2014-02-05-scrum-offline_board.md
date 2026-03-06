@@ -37,7 +37,7 @@ Daily meeting은 회의가 아니예요.
 
 아래 사진은 요즘 제가 운영하는 Kanban 보드인데요, PO라고 할 수 있는 조직 책임자 대상으로 진행하고 있어요.  
 
-<img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/offline_board.png"/>   
+<img class="alignnone size-full wp-image-58" src="/images/work/offline_board.png"/>   
 
 JIRA에 다 있는 것들인데 전부 포스트잇에 옮겨 적고, 아침에 30분씩 조직책임자들과 같이 앉아서 어제까지 붙였던 포스트잇에 대해 리뷰를 하고 새로운 업무를 분배합니다. 그리고 저는 다시 오늘 발생한 이슈들을 구분해서 각각 다른 색상의 포스트잇에 옮겨 적어 오프라인 보드에 붙이는거죠.  
 

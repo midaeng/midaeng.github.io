@@ -38,12 +38,12 @@ Paper prototyping 소개 자료는 slide share에 공유해두었어요.
 
 2. Camera에 진입하는 부분까지 포함하여 시나리오 두장에서 뽑아낸 story line - 6단계   
 
-<img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/pp-2.png"/>   
+<img class="alignnone size-full wp-image-58" src="/images/work/pp-2.png"/>   
 
 
 3. 이걸 바탕으로 사용자 시나리오를 장면이 바뀌는 것에 따라 그려봅니다.  
 
-<img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/pp-3.png"/>   
+<img class="alignnone size-full wp-image-58" src="/images/work/pp-3.png"/>   
   
     **유의 사항 : 메인 시나리오 잡기 (예외 처리는 일단 고려하지 않는다)**  
     - 우선순위가 가장 높은 것을 선택한다는 의미로, 가장 중요한 것 이외의 것들은 예외처리로 간주한다. (즉, 예외처리는 나중에 개발하는 것이고, 시간이 없으면 버릴 수도 있다는 의미)  
@@ -57,15 +57,15 @@ Paper prototyping 소개 자료는 slide share에 공유해두었어요.
   
 **4. 2번에서 6개의 화면으로 구성될 것이라고 예상했던 것이 실제로 그려보니 총 9 단계가 나왔다.**   
 1) 처음엔 7장에 걸쳐 그렸으나, 시뮬레이션을 해보면서 4-1과 5-1이 추가되었음.  
-<img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/pp-4.png"/>   
+<img class="alignnone size-full wp-image-58" src="/images/work/pp-4.png"/>   
 
 2) 3과 7에서 모호한 부분이 보였다.   
 3) 장면이 넘어가는 것에 대한 정의가 나와 다른 사람이 달랐다. 난 클릭을 한 이후를 그렸고, 다른 사람은 클릭을 하기 바로 이전을 그림으로 나타내고 있었다. 그림을 그려서 각 장면이 의미하는 바를 이야기로 계속 하기 때문에 좀 더 명확한 커뮤니케이션이 되었다.   
 
-<img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/pp-4-1.png"/>   
+<img class="alignnone size-full wp-image-58" src="/images/work/pp-4-1.png"/>   
 
 **결론 : 사용성 측면에서 정말 사용자가 이런 시나리오로 사용하는지에 대해 논의해볼 수 있음.**  
-<img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/pp-5.png"/>   
+<img class="alignnone size-full wp-image-58" src="/images/work/pp-5.png"/>   
 
 실제로 수행해보면서 느낀 장점 및 기대효과는 다음과 같다.  
 

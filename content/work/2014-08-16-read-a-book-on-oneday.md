@@ -25,7 +25,7 @@ title: "하루 안에 원서 한 권 읽기"
 
 아래 사진을 페이스북에 올렸더니 김창준님께서 비슷한데 검증된 방법으로 [SQ3R](https://ucc.vt.edu/academic_support/study_skills_information/sq3r_reading-study_system.html) 있다고 알려주시더라구요.   
 
-<img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/ASR_ch13.png"/>   
+<img class="alignnone size-full wp-image-58" src="/images/work/ASR_ch13.png"/>   
 
 역시 공부는 peer로 하는게 최고인 듯.  
   

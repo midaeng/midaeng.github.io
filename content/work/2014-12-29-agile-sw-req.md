@@ -3,7 +3,7 @@ layout: post
 title: "Agile Software Requirements - Dean Leffingwell"
 ---
 
-<img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/ASR_scaled_agile.png"/>  
+<img class="alignnone size-full wp-image-58" src="/images/work/ASR_scaled_agile.png"/>  
 
 팀 단위의 Scrum을 진행하다가, 좀 더 큰 규모로 넓히기 위한 프랙티스를 공부하는 중입니다.  
 **공부하면서 조금씩 채워지는 페이지입니다.**

@@ -12,4 +12,4 @@ title: "TDD with Lego"
 기회가 되면 사외 워크샵에서 한번 해보려고 준비 중이다.   
 이건 마지막에 만든 작품들. 
 
-<img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/tddwithlego.png"/>  
+<img class="alignnone size-full wp-image-58" src="/images/work/tddwithlego.png"/>  

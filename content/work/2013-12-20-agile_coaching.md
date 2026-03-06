@@ -24,8 +24,8 @@ title: "Agile Coaching"
 아래 사진은 위에 요약한 것들을 세시간동안 정리한 내용이고, 같이 갔던 분들이랑 공동으로 노트한 내용은 요기 ▶ [xper201312](http://j.mp/xper201312)  
   
   
-<img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/agile_coaching_01.png"/>  
+<img class="alignnone size-full wp-image-58" src="/images/work/agile_coaching_01.png"/>  
 
-<img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/agile_coaching_02.png"/>  
+<img class="alignnone size-full wp-image-58" src="/images/work/agile_coaching_02.png"/>  
 
-<img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/agile_coaching_03.png"/>  
+<img class="alignnone size-full wp-image-58" src="/images/work/agile_coaching_03.png"/>  

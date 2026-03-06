@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="ko-KR">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ .Title }} | {{ .Site.Title }}</title>
-    {{ $style := resources.Get "css/main.css" | minify | fingerprint }}
-    <link rel="stylesheet" href="{{ $style.Permalink }}">
-</head>
-<body>
+{{ define "main" }}
 <div class="site-wrapper">
     <nav class="nav" style="padding: 20px; text-align: center;">
         <ul><li style="list-style: none;"><a href="{{ .Site.BaseURL }}" style="text-decoration: none; color: #666;">Home</a></li></ul>
@@ -15,7 +6,6 @@
     <article class="post-single" style="max-width: 800px; margin: 0 auto; padding: 40px 20px;">
         <header>
             <h1 style="font-size: 2em; margin-bottom: 10px;">{{ .Title }}</h1>
-            
             {{ if and (ne .Type "about") (ne .File.BaseFileName "about") }}
                 <div class="date" style="color: #999; margin-bottom: 30px;">
                     {{ .Date.Format "2006-01-02" }}
@@ -27,5 +17,4 @@
         </div>
     </article>
 </div>
-</body>
-</html>
+{{ end }}

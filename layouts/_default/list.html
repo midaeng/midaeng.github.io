@@ -1,20 +1,11 @@
-<!DOCTYPE html>
-<html lang="ko-KR">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ .Title }} | {{ .Site.Title }}</title>
-    {{ $style := resources.Get "css/main.css" | minify | fingerprint }}
-    <link rel="stylesheet" href="{{ $style.Permalink }}">
-</head>
-<body>
+{{ define "main" }}
 <div class="site-wrapper list-wrapper">
     <nav class="home__header-nav" style="margin-bottom: 80px;">
-    <ul>
-        <li><a href="{{ .Site.BaseURL }}" style="background: #333; color: #fff; padding: 10px 20px;">HOME</a></li>
-        <li><a href="{{ .Site.BaseURL }}work" style="border: 1px solid #ededed; padding: 10px 20px;">ARTICLES</a></li>
-    </ul>
-</nav>
+        <ul>
+            <li><a href="{{ .Site.BaseURL }}" style="background: #333; color: #fff; padding: 10px 20px;">HOME</a></li>
+            <li><a href="{{ .Site.BaseURL }}work" style="border: 1px solid #ededed; padding: 10px 20px;">ARTICLES</a></li>
+        </ul>
+    </nav>
     
     <main class="list-container">
         {{ range (.Pages.GroupByDate "2006") }}
@@ -24,7 +15,7 @@
                 {{ range .Pages }}
                 <li class="article-item" style="display: flex; justify-content: space-between; margin-bottom: 20px;">
                     <a href="{{ .Permalink }}" class="article-title">{{ .Title }}</a>
-                    <aside class="article-date">{{ .Date.Format "2 January" }}</aside>
+                    <aside class="article-date">{{ .Date.Format "2 Jan" }}</aside>
                 </li>
                 {{ end }}
             </ul>
@@ -32,5 +23,4 @@
         {{ end }}
     </main>
 </div>
-</body>
-</html>
+{{ end }}

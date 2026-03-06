@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html lang="ko-KR">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>About | {{ .Site.Title }}</title>
-    {{ $style := resources.Get "css/main.css" | minify | fingerprint }}
-    <link rel="stylesheet" href="{{ $style.Permalink }}">
-</head>
-<body>
-<div class="site-wrapper">
+{{ define "main" }}
     <nav class="nav" style="padding: 40px 0; text-align: center;">
         <ul><li style="list-style: none;"><a href="{{ .Site.BaseURL }}" style="text-decoration: none; color: #333; font-weight: 600;">HOME</a></li></ul>
     </nav>
@@ -19,6 +9,4 @@
             {{ .Content }}
         </div>
     </article>
-</div>
-</body>
-</html>
+{{ end }}
